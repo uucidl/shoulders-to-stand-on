@@ -1,75 +1,76 @@
-#  /wiki/Ada_Lovelace
-#  /wiki/Adam_Riese
-#  /wiki/Adriaan_van_Wijngaarden
-#  /wiki/Alan_Perlis
-#  /wiki/Alan_Turing
-#  /wiki/Alexandre_Graham_Bell
-#  /wiki/Allen_Newell
-#  /wiki/Alonzo_Church
-#  /wiki/Amir_Pnueli
-#  /wiki/Andrey_Nikolaevich_Kolmogorov
-#  /wiki/Azriel_Rosenfeld
-#  /wiki/Blaise_Pascal
-#  /wiki/Charles_Babbage
-#  /wiki/Charles_Stark_Draper
-#  /wiki/Chris_McKinstry
-#  /wiki/Christopher_Strachey
-#  /wiki/Claude_Shannon
-#  /wiki/David_A._Huffman
-#  /wiki/David_Packard
-#  /wiki/David_Waltz
-#  /wiki/Dennis_Ritchie
-#  /wiki/Edgar_F._Codd
-#  /wiki/Edsger_Dijkstra
-#  /wiki/Emil_Post
-#  /wiki/Emmy_Noether
-#  /wiki/Gary_Kildall
-#  /wiki/George_Boole
-#  /wiki/Gilles_Kahn
-#  /wiki/Grace_Hopper
-#  /wiki/Grace_Murray_Hopper
-#  /wiki/Haskell_Curry
-#  /wiki/Herbert_A._Simon
-#  /wiki/Herman_Hollerith
-#  /wiki/J.C.R._Licklider
-#  /wiki/James_H._Wilkinson
-#  /wiki/Jim_Gray_(computer_scientist)
-#  /wiki/John_Backus
-#  /wiki/John_Cocke
-#  /wiki/John_George_Kemeny
-#  /wiki/John_Mauchly
-#  /wiki/John_McCarthy_(computer_scientist)
-#  /wiki/John_Presper_Eckert
-#  /wiki/John_Tukey
-#  /wiki/John_Vincent_Atanasoff
-#  /wiki/John_von_Neumann
-#  /wiki/Jon_Postel
-#  /wiki/Joseph-Marie_Jacquard
-#  /wiki/Joseph_Weizenbaum
-#  /wiki/Joshua_Lederberg
-#  /wiki/Ken_Kennedy_(computer_scientist)
-#  /wiki/Kenneth_E._Iverson
-#  /wiki/Konrad_Zuse
-#  /wiki/Kristen_Nygaard
-#  /wiki/Kurt_G%C3%B6del
-#  /wiki/Manny_M_Lehman
-#  /wiki/Mark_Weiser
-#  /wiki/Maurice_Vincent_Wilkes
-#  /wiki/Max_Newman
-#  /wiki/Michael_Dertouzos
-#  /wiki/Ole-Johan_Dahl
-#  /wiki/Peter_J._Landin
-#  /wiki/Philip_Don_Estridge
-#  /wiki/Randy_Pausch
-#  /wiki/Richard_Hamming
-#  /wiki/Robert_Floyd
-#  /wiki/Robin_Milner
-#  /wiki/Roger_Needham
-#  /wiki/Roland_Moreno
-#  /wiki/Seymour_Cray
-#  /wiki/Seymour_Ginsburg
-#  /wiki/Shimon_Even
-#  /wiki/Stephen_Cole_Kleene
-#  /wiki/Steve_Jobs
-#  /wiki/Tommy_Flowers
-#  /wiki/William_Hewlett
+# [Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace)
+# [Adam Riese](http://en.wikipedia.org/wiki/Adam_Riese)
+# [Adriaan van Wijngaarden](http://en.wikipedia.org/wiki/Adriaan_van_Wijngaarden)
+# [Alan Perlis](http://en.wikipedia.org/wiki/Alan_Perlis)
+# [Alan Turing](http://en.wikipedia.org/wiki/Alan_Turing)
+# [Alexandre Graham Bell](http://en.wikipedia.org/wiki/Alexandre_Graham_Bell)
+# [Allen Newell](http://en.wikipedia.org/wiki/Allen_Newell)
+# [Alonzo Church](http://en.wikipedia.org/wiki/Alonzo_Church)
+# [Amir Pnueli](http://en.wikipedia.org/wiki/Amir_Pnueli)
+# [Andrey Nikolaevich Kolmogorov](http://en.wikipedia.org/wiki/Andrey_Nikolaevich_Kolmogorov)
+# [Azriel Rosenfeld](http://en.wikipedia.org/wiki/Azriel_Rosenfeld)
+# [Blaise Pascal](http://en.wikipedia.org/wiki/Blaise_Pascal)
+# [Charles Babbage](http://en.wikipedia.org/wiki/Charles_Babbage)
+# [Charles Stark Draper](http://en.wikipedia.org/wiki/Charles_Stark_Draper)
+# [Chris McKinstry](http://en.wikipedia.org/wiki/Chris_McKinstry)
+# [Christopher Strachey](http://en.wikipedia.org/wiki/Christopher_Strachey)
+# [Claude Shannon](http://en.wikipedia.org/wiki/Claude_Shannon)
+# [David A. Huffman](http://en.wikipedia.org/wiki/David_A._Huffman)
+# [David Packard](http://en.wikipedia.org/wiki/David_Packard)
+# [David Waltz](http://en.wikipedia.org/wiki/David_Waltz)
+# [Dennis Ritchie](http://en.wikipedia.org/wiki/Dennis_Ritchie)
+# [Edgar F. Codd](http://en.wikipedia.org/wiki/Edgar_F._Codd)
+# [Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_Dijkstra)
+# [Emil Post](http://en.wikipedia.org/wiki/Emil_Post)
+# [Emmy Noether](http://en.wikipedia.org/wiki/Emmy_Noether)
+# [Gary Kildall](http://en.wikipedia.org/wiki/Gary_Kildall)
+# [George Boole](http://en.wikipedia.org/wiki/George_Boole)
+# [Gilles Kahn](http://en.wikipedia.org/wiki/Gilles_Kahn)
+# [Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper)
+# [Grace Murray Hopper](http://en.wikipedia.org/wiki/Grace_Murray_Hopper)
+# [Grace Murray Hopper#Retirement](http://en.wikipedia.org/wiki/Grace_Murray_Hopper#Retirement)
+# [Haskell Curry](http://en.wikipedia.org/wiki/Haskell_Curry)
+# [Herbert A. Simon](http://en.wikipedia.org/wiki/Herbert_A._Simon)
+# [Herman Hollerith](http://en.wikipedia.org/wiki/Herman_Hollerith)
+# [J.C.R. Licklider](http://en.wikipedia.org/wiki/J.C.R._Licklider)
+# [James H. Wilkinson](http://en.wikipedia.org/wiki/James_H._Wilkinson)
+# [Jim Gray (computer scientist)](http://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist))
+# [John Backus](http://en.wikipedia.org/wiki/John_Backus)
+# [John Cocke](http://en.wikipedia.org/wiki/John_Cocke)
+# [John George Kemeny](http://en.wikipedia.org/wiki/John_George_Kemeny)
+# [John Mauchly](http://en.wikipedia.org/wiki/John_Mauchly)
+# [John McCarthy (computer scientist)](http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
+# [John Presper Eckert](http://en.wikipedia.org/wiki/John_Presper_Eckert)
+# [John Tukey](http://en.wikipedia.org/wiki/John_Tukey)
+# [John Vincent Atanasoff](http://en.wikipedia.org/wiki/John_Vincent_Atanasoff)
+# [John von Neumann](http://en.wikipedia.org/wiki/John_von_Neumann)
+# [Jon Postel](http://en.wikipedia.org/wiki/Jon_Postel)
+# [Joseph-Marie Jacquard](http://en.wikipedia.org/wiki/Joseph-Marie_Jacquard)
+# [Joseph Weizenbaum](http://en.wikipedia.org/wiki/Joseph_Weizenbaum)
+# [Joshua Lederberg](http://en.wikipedia.org/wiki/Joshua_Lederberg)
+# [Ken Kennedy (computer scientist)](http://en.wikipedia.org/wiki/Ken_Kennedy_(computer_scientist))
+# [Kenneth E. Iverson](http://en.wikipedia.org/wiki/Kenneth_E._Iverson)
+# [Konrad Zuse](http://en.wikipedia.org/wiki/Konrad_Zuse)
+# [Kristen Nygaard](http://en.wikipedia.org/wiki/Kristen_Nygaard)
+# [Kurt G%C3%B6del](http://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+# [Manny M Lehman](http://en.wikipedia.org/wiki/Manny_M_Lehman)
+# [Mark Weiser](http://en.wikipedia.org/wiki/Mark_Weiser)
+# [Maurice Vincent Wilkes](http://en.wikipedia.org/wiki/Maurice_Vincent_Wilkes)
+# [Max Newman](http://en.wikipedia.org/wiki/Max_Newman)
+# [Michael Dertouzos](http://en.wikipedia.org/wiki/Michael_Dertouzos)
+# [Ole-Johan Dahl](http://en.wikipedia.org/wiki/Ole-Johan_Dahl)
+# [Peter J. Landin](http://en.wikipedia.org/wiki/Peter_J._Landin)
+# [Philip Don Estridge](http://en.wikipedia.org/wiki/Philip_Don_Estridge)
+# [Randy Pausch](http://en.wikipedia.org/wiki/Randy_Pausch)
+# [Richard Hamming](http://en.wikipedia.org/wiki/Richard_Hamming)
+# [Robert Floyd](http://en.wikipedia.org/wiki/Robert_Floyd)
+# [Robin Milner](http://en.wikipedia.org/wiki/Robin_Milner)
+# [Roger Needham](http://en.wikipedia.org/wiki/Roger_Needham)
+# [Roland Moreno](http://en.wikipedia.org/wiki/Roland_Moreno)
+# [Seymour Cray](http://en.wikipedia.org/wiki/Seymour_Cray)
+# [Seymour Ginsburg](http://en.wikipedia.org/wiki/Seymour_Ginsburg)
+# [Shimon Even](http://en.wikipedia.org/wiki/Shimon_Even)
+# [Stephen Cole Kleene](http://en.wikipedia.org/wiki/Stephen_Cole_Kleene)
+# [Steve Jobs](http://en.wikipedia.org/wiki/Steve_Jobs)
+# [Tommy Flowers](http://en.wikipedia.org/wiki/Tommy_Flowers)
+# [William Hewlett](http://en.wikipedia.org/wiki/William_Hewlett)

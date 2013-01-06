@@ -4,7 +4,14 @@ GREP_WIKI_LINKS=grep -o -e '/wiki/[^"]*'
 
 .PHONY: DOWNLOADS ALL
 
-all: data/died.en+fr.txt DOWNLOADS
+all: list.md DOWNLOADS
+
+list.md: data/died.en+fr.txt
+	cat $^ | while read s ; do \
+	L="http://en.wikipedia.org$$s" ; \
+	N=`echo $$s | sed -e 's,^/wiki/,,' | sed -e 's/_/ /g'` ; \
+	echo "# [$$N]($$L)" ; \
+	done > $@
 
 DOWNLOADS: data/downloads.mk
 	make -f data/downloads.mk all
