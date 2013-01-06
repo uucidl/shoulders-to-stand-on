@@ -28,6 +28,7 @@ data/downloads.mk: data/materials.txt
 
 data/materials.txt: review.md
 	grep -o 'http://[^ $$]*' $< > $@
+	grep -o 'ftp://[^ $$]*' $< >> $@
 
 data/died.en+fr.txt: data/died.txt data/died.fr.txt
 	cat $^ | sort | uniq > $@

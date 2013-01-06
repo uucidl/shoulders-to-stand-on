@@ -14,4 +14,12 @@ ALL+=materials/lederberg-paper.pdf
 materials/lederberg-paper.pdf:
 	curl "http://ericagilliland.files.wordpress.com/2011/10/lederberg-paper.pdf" > $@
 
+ALL+=materials/20030065241_2003074294.pdf
+materials/20030065241_2003074294.pdf:
+	curl "http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20030065241_2003074294.pdf" > $@
+
+ALL+=materials/zuserechnenderraum.pdf
+materials/zuserechnenderraum.pdf:
+	curl "ftp://ftp.idsia.ch/pub/juergen/zuserechnenderraum.pdf" > $@
+
 all: $(ALL)

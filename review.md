@@ -2,6 +2,26 @@
 
 ## /wiki/Joshua_Lederberg
 
+First expert system with DENDRAL.
+
+### Misc
+
+- induction by enumeration.
+- Q. About DENDRAL:
+
+For structures with rings, however, the notational algorithm was not easily
+transformed into a generating algorithm. It was important, and difficult to
+prove, that the generation was complete, i.e., that every distinct structure with
+a given number of nodes of given types was generated. The particularly
+difficult issue, besides efficiency, however, was avoiding generation of dupli-
+cate structures. Because of the many-fold symmetries of some structures, it was
+extremely difficult to guarantee that no single structure was duplicated. The
+generator that was finally designed and implemented was proved to be both
+complete and non-redundant.
+
+Coders on CONGEN:
+- Ray Carhart (BPCL code)
+
 ### http://aitopics.net/classic/Hunter/13-Lederberg.pdf
 
 #### Q.
@@ -157,3 +177,42 @@ By collaborator EA Felgenbaum
 #### http://ericagilliland.files.wordpress.com/2011/10/lederberg-paper.pdf
 
 LCF notation to represent molecular structure.
+
+## Konrad Zuse
+
+Developed in isolation his works.
+
+First computer with Z3.
+First commercial computer with the Z4. In use for 10 years from 1949 to 1959.
+Computer language: Plankalkül. Designed in 1948. First implementation in 2000.
+
+The Deutsches Technikmuseum Berlin has an exhibition devoted to Zuse.
+
+
+Other people:
+- Eduard Stiefel (acquirer of the Z4 for the ETH Zurich)
+- Heinz Rutishauser
+Non restoring square root algorithm by Konrad Zuse.
+
+### Z4
+
+- Instructions could be fetched with a 2 instruction look-ahead.
+- Two instructions could be swapped if it made intermediate results available (in local registers)
+- Memory loads were detected and initiated in-advance
+- Computation could be cached if needed by a later instruction
+Computation were slow enough to be seen in realtime (writing to tape)
+
+The First Computers: History and Architectures By Raul Rojas:
+
+Dust in relays could cause failures.
+Used two types of pins for the memory that were far too close to each-other so user mistakes while re-assembling could occur (2.5mm vs 2.6mm long)
+
+Rutishauser exploited the machine to let it do things it wasn't ready to do, such as compiling a program to memory then reinterpreting it. This customization meant changing circuitry.
+
+### Computed Space
+
+ftp://ftp.idsia.ch/pub/juergen/zuserechnenderraum.pdf
+
+### Heinz Rutishauser
+
+http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20030065241_2003074294.pdf
