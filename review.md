@@ -2,7 +2,7 @@
 
 ## /wiki/Joshua_Lederberg
 
-First expert system with DENDRAL.
+Was one of the initiators of the first expert system: DENDRAL.
 
 ### Misc
 
@@ -180,21 +180,27 @@ LCF notation to represent molecular structure.
 
 ## Konrad Zuse
 
-Developed in isolation his works.
+Developed in isolation his works in WW2 germany.
 
-First computer with Z3.
+First computer with Z1.
 First commercial computer with the Z4. In use for 10 years from 1949 to 1959.
 Computer language: Plankalkül. Designed in 1948. First implementation in 2000.
 
 The Deutsches Technikmuseum Berlin has an exhibition devoted to Zuse.
 
-
-Other people:
+Other related people:
 - Eduard Stiefel (acquirer of the Z4 for the ETH Zurich)
 - Heinz Rutishauser
-Non restoring square root algorithm by Konrad Zuse.
 
-### Z4
+Algorithms:
+- Non restoring square root algorithm by Konrad Zuse.
+
+His works highlight the fact that computers were initially motivated
+by the numerical integration of differential equations.
+
+### The Z4 Machine
+
+Some notable elements:
 
 - Instructions could be fetched with a 2 instruction look-ahead.
 - Two instructions could be swapped if it made intermediate results available (in local registers)
@@ -209,9 +215,11 @@ Used two types of pins for the memory that were far too close to each-other so u
 
 Rutishauser exploited the machine to let it do things it wasn't ready to do, such as compiling a program to memory then reinterpreting it. This customization meant changing circuitry.
 
-### Computed Space
+### Computed Space / Zuserechnenderraum
 
 ftp://ftp.idsia.ch/pub/juergen/zuserechnenderraum.pdf
+
+A speculative essay on physics.
 
 ### Heinz Rutishauser
 
