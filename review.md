@@ -231,3 +231,25 @@ A speculative essay on physics.
 ### Heinz Rutishauser
 
 http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20030065241_2003074294.pdf
+
+Numerical instability is not error
+
+Methods for integration of differential equations:
+- Runge Kutta
+- Adams Extrapolation
+
+A differential equation is approximated by a difference equation.
+
+A differential equation has its solutions. qA difference equation may
+have other additional solutions (if it is of higher order). It may be
+related to the differential equation only at the beginning.
+
+Stability is the nature of an equation with convergent solutions.
+
+Differential equations may be stable, with stable solutions, while the
+corresponding difference equation may have additional, non convergent
+solutions leading to instability.
+
+Computational error may pull the equation away from the convergent
+solution into the unstable, divergent one. A small error then leads to
+an explosion.
