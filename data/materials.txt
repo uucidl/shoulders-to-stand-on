@@ -2,5 +2,6 @@ http://aitopics.net/classic/Hunter/13-Lederberg.pdf
 http://profiles.nlm.nih.gov/ps/access/BBALYP.pdf
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.217.8018&rep=rep1&type=pdf
 http://ericagilliland.files.wordpress.com/2011/10/lederberg-paper.pdf
+http://ed-thelen.org/comp-hist/Zuse_Z1_and_Z3.pdf
 http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20030065241_2003074294.pdf
 ftp://ftp.idsia.ch/pub/juergen/zuserechnenderraum.pdf

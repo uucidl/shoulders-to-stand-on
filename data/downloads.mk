@@ -14,6 +14,10 @@ ALL+=materials/lederberg-paper.pdf
 materials/lederberg-paper.pdf:
 	curl "http://ericagilliland.files.wordpress.com/2011/10/lederberg-paper.pdf" > $@
 
+ALL+=materials/Zuse_Z1_and_Z3.pdf
+materials/Zuse_Z1_and_Z3.pdf:
+	curl "http://ed-thelen.org/comp-hist/Zuse_Z1_and_Z3.pdf" > $@
+
 ALL+=materials/20030065241_2003074294.pdf
 materials/20030065241_2003074294.pdf:
 	curl "http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20030065241_2003074294.pdf" > $@

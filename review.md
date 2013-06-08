@@ -198,6 +198,13 @@ Algorithms:
 His works highlight the fact that computers were initially motivated
 by the numerical integration of differential equations.
 
+It is particularly noticeable that this very first computers were doing floating
+point calculations from the start.
+
+### The Z1 and Z3 machines
+
+http://ed-thelen.org/comp-hist/Zuse_Z1_and_Z3.pdf
+
 ### The Z4 Machine
 
 Some notable elements:
