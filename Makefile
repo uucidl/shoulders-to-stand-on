@@ -21,7 +21,7 @@ data/downloads.mk: data/materials.txt
 	F=`basename $$l | sed s/[\=\&\$$\?]/_/g` ; \
 	echo "ALL+=materials/$$F" ; \
 	echo "materials/$$F:" ; \
-	echo "\tcurl \"$$l\" > \$$@" ; \
+	echo "\tcurl -L \"$$l\" > \$$@" ; \
 	echo "" ; \
 	done > $@
 	echo "all: \$$(ALL)" >> $@
