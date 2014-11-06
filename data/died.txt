@@ -1,6 +1,7 @@
 /wiki/John_Vincent_Atanasoff
 /wiki/Charles_Babbage
 /wiki/John_Backus
+/wiki/Jean_Bartik
 /wiki/John_Mauchly
 /wiki/George_Boole
 /wiki/Alonzo_Church
@@ -12,14 +13,15 @@
 /wiki/Michael_Dertouzos
 /wiki/Edsger_Dijkstra
 /wiki/Charles_Stark_Draper
+/wiki/Annie_Easley
 /wiki/John_Presper_Eckert
+/wiki/Douglas_Engelbart
 /wiki/Philip_Don_Estridge
 /wiki/Shimon_Even
 /wiki/Tommy_Flowers
 /wiki/Robert_Floyd
 /wiki/Seymour_Ginsburg
 /wiki/Kurt_G%C3%B6del
-/wiki/Jim_Gray_(computer_scientist)
 /wiki/Richard_Hamming
 /wiki/Herman_Hollerith
 /wiki/Grace_Hopper
@@ -36,7 +38,9 @@
 /wiki/Manny_M_Lehman
 /wiki/J.C.R._Licklider
 /wiki/Ada_Lovelace
+/wiki/James_Martin_(author)
 /wiki/John_Mauchly
+/wiki/Jean_Bartik
 /wiki/Grace_Murray_Hopper
 /wiki/John_McCarthy_(computer_scientist)
 /wiki/Chris_McKinstry
@@ -45,6 +49,7 @@
 /wiki/John_von_Neumann
 /wiki/Allen_Newell
 /wiki/Max_Newman
+/wiki/Jerre_Noe
 /wiki/Emmy_Noether
 /wiki/Kristen_Nygaard
 /wiki/Randy_Pausch
@@ -52,11 +57,14 @@
 /wiki/Amir_Pnueli
 /wiki/Emil_Post
 /wiki/Jon_Postel
+/wiki/John_C._Reynolds
 /wiki/Adam_Riese
 /wiki/Dennis_Ritchie
 /wiki/Azriel_Rosenfeld
+/wiki/Gerard_Salton
 /wiki/Claude_Shannon
 /wiki/Herbert_A._Simon
+/wiki/W._Richard_Stevens
 /wiki/Christopher_Strachey
 /wiki/John_Tukey
 /wiki/Alan_Turing

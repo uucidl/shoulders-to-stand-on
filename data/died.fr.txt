@@ -1,12 +1,17 @@
 /wiki/Charles_Babbage
 /wiki/Alexandre_Graham_Bell
+/wiki/Pierre_B%C3%A9zier
 /wiki/George_Boole
+/wiki/Vannevar_Bush
 /wiki/Alonzo_Church
+/wiki/Edgar_F._Codd
 /wiki/Edsger_Dijkstra
+/wiki/Douglas_Engelbart
 /wiki/Richard_Hamming
 /wiki/William_Hewlett
 /wiki/David_Packard
 /wiki/Herman_Hollerith
+/wiki/Grace_Hopper
 /wiki/Joseph-Marie_Jacquard
 /wiki/Steve_Jobs
 /wiki/Gilles_Kahn
@@ -18,5 +23,6 @@
 /wiki/Blaise_Pascal
 /wiki/Dennis_Ritchie
 /wiki/Claude_Shannon
+/wiki/Herbert_Simon
 /wiki/Alan_Turing
 /wiki/Joseph_Weizenbaum
