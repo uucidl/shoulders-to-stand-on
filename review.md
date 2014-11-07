@@ -256,18 +256,20 @@ an explosion.
 
 ## /wiki/Gilles_Kahn
 
-http://www.ensta-paristech.fr/~chapoutot/various/kahn_networks.pdf
-http://hal.archives-ouvertes.fr/docs/00/07/59/53/PDF/RR-0601.pdf
-http://hal.archives-ouvertes.fr/docs/00/30/65/65/PDF/rr_iria202.pdf
-http://hal.archives-ouvertes.fr/docs/00/07/57/74/PDF/RR-0777.pdf
-http://hal.inria.fr/docs/00/06/99/93/PDF/RT-0178.pdf
-http://hal.inria.fr/docs/00/07/65/35/PDF/RR-0026.pdf
-http://hal.archives-ouvertes.fr/docs/00/07/60/25/PDF/RR-0529.pdf
-ftp://ftp-sop.inria.fr/marelle/personnel/Laurent.Thery/papers/pbp.ps.gz
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.158.8276&rep=rep1&type=pdf
-http://hal.archives-ouvertes.fr/docs/00/07/61/40/PDF/RR-0416.pdf
-http://hal.inria.fr/docs/00/17/78/90/PDF/Kahn.pdf
-http://www.di.ens.fr/~pouzet/cours/mpri/cours2/semantics.pdf
+- http://www.ensta-paristech.fr/~chapoutot/various/kahn_networks.pdf
+- http://hal.archives-ouvertes.fr/docs/00/07/59/53/PDF/RR-0601.pdf
+- http://hal.archives-ouvertes.fr/docs/00/30/65/65/PDF/rr_iria202.pdf
+- http://hal.archives-ouvertes.fr/docs/00/07/57/74/PDF/RR-0777.pdf
+- http://hal.inria.fr/docs/00/06/99/93/PDF/RT-0178.pdf
+- http://hal.inria.fr/docs/00/07/65/35/PDF/RR-0026.pdf
+- http://hal.archives-ouvertes.fr/docs/00/07/60/25/PDF/RR-0529.pdf
+- ftp://ftp-sop.inria.fr/marelle/personnel/Laurent.Thery/papers/pbp.ps.gz
+- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.158.8276&rep=rep1&type=pdf
+- http://hal.archives-ouvertes.fr/docs/00/07/61/40/PDF/RR-0416.pdf
+- http://hal.inria.fr/docs/00/17/78/90/PDF/Kahn.pdf
+- http://www.di.ens.fr/~pouzet/cours/mpri/cours2/semantics.pdf
 
+Kahn Networks
+Natural Semantics
 Centaur
 Coq
