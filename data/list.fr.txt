@@ -1,456 +1,298 @@
-<ul>
-<li><a href="/wiki/Jean-Raymond_Abrial" title="Jean-Raymond Abrial">Jean-Raymond Abrial</a> (<a href="/w/index.php?title=Langage_de_sp%C3%A9cification&amp;action=edit&amp;redlink=1" class="new" title="Langage de spécification (page inexistante)">langages de spécification</a> Z et B)</li>
+<ul><li><a href="/wiki/Jean-Raymond_Abrial" title="Jean-Raymond Abrial">Jean-Raymond Abrial</a> (<a href="/wiki/Langage_de_sp%C3%A9cification" title="Langage de spécification">langages de spécification</a> Z et B)</li>
 <li><a href="/wiki/Alfred_Aho" title="Alfred Aho">Alfred Aho</a> (logiciel <a href="/wiki/Awk" title="Awk">awk</a>, <i><a href="/wiki/Dragon_book" title="Dragon book">Dragon book</a></i>)</li>
-<li><a href="/wiki/Howard_Aiken" title="Howard Aiken">Howard Aiken</a> (Harvard Mark I)</li>
-<li><a href="/wiki/Al-Khawarizmi" title="Al-Khawarizmi">Al-Khawarizmi</a>, ayant donné son nom aux algorithmes</li>
-<li><a href="/wiki/Gene_Amdahl" title="Gene Amdahl">Gene Amdahl</a> (<a href="/wiki/International_Business_Machines_Corporation" title="International Business Machines Corporation" class="mw-redirect">IBM</a>, créateur des architectures universelles 360 et 370)</li>
-<li><a href="/wiki/Marc_Andreessen" title="Marc Andreessen">Marc Andreessen</a> (<a href="/wiki/Netscape_Communications_Corporation" title="Netscape Communications Corporation" class="mw-redirect">Netscape</a>)</li>
-<li><a href="/wiki/Jacques_Arsac" title="Jacques Arsac">Jacques Arsac</a> informaticien français, membre de l'<a href="/wiki/Acad%C3%A9mie_des_sciences_(France)" title="Académie des sciences (France)">Académie des Sciences</a>, créateur du langage de description algorithmique EXEL</li>
-<li><a href="/wiki/John_Vincent_Atanasoff" title="John Vincent Atanasoff" class="mw-redirect">John Vincent Atanasoff</a> (Concepteur du premier ordinateur)</li>
-<li><a href="/wiki/Bill_Atkinson_(informaticien)" title="Bill Atkinson (informaticien)">Bill Atkinson</a> (<a href="/wiki/Apple,_Inc." title="Apple, Inc." class="mw-redirect">Apple</a>)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=2" title="Modifier la section : B">modifier</a>]</span> <span class="mw-headline" id="B">B</span></h2>
-<ul>
-<li><a href="/wiki/Charles_Babbage" title="Charles Babbage">Charles Babbage</a> (machine à calculer mécanique)</li>
-<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> (<a href="/wiki/Fortran" title="Fortran">Fortran</a>)</li>
-<li><a href="/wiki/Alexandre_Graham_Bell" title="Alexandre Graham Bell" class="mw-redirect">Alexandre Graham Bell</a> (Téléphone)</li>
-<li><a href="/wiki/Fabrice_Bellard" title="Fabrice Bellard">Fabrice Bellard</a> (<a href="/wiki/Pi" title="Pi">calcul de Pi</a>, <a href="/wiki/QEMU" title="QEMU">émulateur QEMU</a>)</li>
-<li><a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a> (<a href="/wiki/World_Wide_Web" title="World Wide Web">WWW</a>)</li>
-<li><a href="/wiki/Pierre_B%C3%A9zier" title="Pierre Bézier">Pierre Bézier</a> (CAO)</li>
+<li><a href="/wiki/Howard_Aiken" title="Howard Aiken">Howard Aiken</a> (<a href="/wiki/Harvard_Mark_I" title="Harvard Mark I">Harvard Mark I</a>)</li>
+<li><a href="/wiki/Frances_Allen" title="Frances Allen">Frances Allen</a> (<a href="/wiki/IBM" title="IBM">IBM</a>, compilateurs optimisants)</li>
+<li><a href="/wiki/Gene_Amdahl" title="Gene Amdahl">Gene Amdahl</a> (<a href="/wiki/International_Business_Machines_Corporation" class="mw-redirect" title="International Business Machines Corporation">IBM</a>, créateur des architectures universelles 360 et 370)</li>
+<li><a href="/wiki/Marc_Andreessen" title="Marc Andreessen">Marc Andreessen</a> (<a href="/wiki/Netscape_Communications_Corporation" class="mw-redirect" title="Netscape Communications Corporation">Netscape</a>)</li>
+<li><a href="/wiki/George_Antheil" title="George Antheil">George Antheil</a> (co-inventeur d'une forme de codage des transmissions par <a href="/wiki/%C3%89talement_de_spectre" title="Étalement de spectre">étalement de spectre</a> base de la technologie <a href="/wiki/Wi-Fi" title="Wi-Fi">Wi-Fi</a>)</li>
+<li><a href="/wiki/Jacques_Arsac" title="Jacques Arsac">Jacques Arsac</a> informaticien français, membre de l'<a href="/wiki/Acad%C3%A9mie_des_sciences_(France)" title="Académie des sciences (France)">Académie des sciences</a>, créateur du langage de description algorithmique EXEL</li>
+<li><a href="/wiki/John_Vincent_Atanasoff" class="mw-redirect" title="John Vincent Atanasoff">John Vincent Atanasoff</a> (concepteur du premier ordinateur)</li>
+<li><a href="/wiki/Bill_Atkinson_(informaticien)" title="Bill Atkinson (informaticien)">Bill Atkinson</a> (<a href="/wiki/Apple" title="Apple">Apple</a>)</li>
+<li><a href="/wiki/Al-Khw%C3%A2rizm%C3%AE" title="Al-Khwârizmî">Al-Khwârizmî</a>, ayant donné son nom aux algorithmes</li></ul>
+<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=2" title="Modifier la section : B" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=2" title="Modifier le code source de la section : B"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Charles_Babbage" title="Charles Babbage">Charles Babbage</a> (machine à calculer mécanique programmable)</li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> (<a href="/wiki/Fortran" title="Fortran">Fortran</a>, <a href="/wiki/Forme_de_Backus-Naur" title="Forme de Backus-Naur">BNF</a>)</li>
+<li><a href="/wiki/Alexander_Graham_Bell" title="Alexander Graham Bell">Alexander Graham Bell</a> (téléphone)</li>
+<li><a href="/wiki/Fabrice_Bellard" title="Fabrice Bellard">Fabrice Bellard</a> (<a href="/wiki/Pi" title="Pi">calcul de Pi</a>, <a href="/wiki/QEMU" title="QEMU"> émulateur QEMU</a>, <a href="/wiki/FFmpeg" title="FFmpeg">FFmpeg</a>)</li>
+<li><a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a> (<a href="/wiki/World_Wide_Web" title="World Wide Web">WWW</a>)<sup id="cite_ref-DI_9335_1-0" class="reference"><a href="#cite_note-DI_9335-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup></li>
+<li><a href="/wiki/Pierre_B%C3%A9zier" title="Pierre Bézier">Pierre Bézier</a> <a href="/wiki/Conception_assist%C3%A9e_par_ordinateur" title="Conception assistée par ordinateur">Conception assistée par ordinateur</a></li>
 <li><a href="/wiki/Corrado_B%C3%B6hm" title="Corrado Böhm">Corrado Böhm</a> (spécialiste de <a href="/wiki/Lambda-calcul" title="Lambda-calcul">Lambda-calcul</a>, créateur de l'<a href="/wiki/Informatique_th%C3%A9orique" title="Informatique théorique">informatique théorique</a> italienne)</li>
-<li><a href="/wiki/George_Boole" title="George Boole">George Boole</a> (<a href="/wiki/Alg%C3%A8bre_de_Boole_(logique)" title="Algèbre de Boole (logique)">Algèbre de Boole</a>)</li>
+<li><a href="/wiki/George_Boole" title="George Boole">George Boole</a> (<a href="/wiki/Alg%C3%A8bre_de_Boole_(logique)" title="Algèbre de Boole (logique)">algèbre de Boole</a>)</li>
 <li><a href="/wiki/Dan_Bricklin" title="Dan Bricklin">Dan Bricklin</a> (<a href="/wiki/VisiCalc" title="VisiCalc">VisiCalc</a>)</li>
-<li><a href="/w/index.php?title=Frederick_Philip_Brooks&amp;action=edit&amp;redlink=1" class="new" title="Frederick Philip Brooks (page inexistante)">Frederick Philip Brooks</a> (IBM 360, le Mythe du mois-homme)</li>
-<li><a href="/wiki/Fredrik_Rosing_Bull" title="Fredrik Rosing Bull">Fredrik Rosing Bull</a> (machines à satistiques)</li>
-<li><a href="/wiki/Vannevar_Bush" title="Vannevar Bush">Vannevar Bush</a> (<a href="/wiki/Hypertexte" title="Hypertexte">hypertexte</a>)</li>
+<li><a href="/wiki/Frederick_Brooks" title="Frederick Brooks">Frederick Brooks</a> (IBM 360, <i><a href="/wiki/Le_Mythe_du_mois-homme" title="Le Mythe du mois-homme">Le Mythe du mois-homme</a></i>)</li>
+<li><a href="/wiki/Fredrik_Rosing_Bull" title="Fredrik Rosing Bull">Fredrik Rosing Bull</a> (machines à statistiques)</li>
+<li><a href="/wiki/Vannevar_Bush" title="Vannevar Bush">Vannevar Bush</a> (<a href="/wiki/Analyseur_diff%C3%A9rentiel" title="Analyseur différentiel">Analyseur différentiel</a> et <a href="/wiki/Hypertexte" title="Hypertexte">hypertexte</a>)</li>
 <li><a href="/wiki/Nolan_Bushnell" title="Nolan Bushnell">Nolan Bushnell</a> (<a href="/wiki/Pong" title="Pong">Pong</a>, <a href="/wiki/Atari" title="Atari">Atari</a>)</li>
-<li><a href="/w/index.php?title=Gilbert_Bitsch&amp;action=edit&amp;redlink=1" class="new" title="Gilbert Bitsch (page inexistante)">Gilbert Bitsch</a> Inventeur <a href="/wiki/Du_Lettrage_conversationnel" title="Du Lettrage conversationnel" class="mw-redirect">du Lettrage conversationnel</a>, qui a mis fin aux ateliers de machines comptables dans les grandes entreprises et qui a ouvert la comptabilité à l'informatique.</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=3" title="Modifier la section : C">modifier</a>]</span> <span class="mw-headline" id="C">C</span></h2>
-<ul>
+<li><a href="/w/index.php?title=Gilbert_Bitsch&amp;action=edit&amp;redlink=1" class="new" title="Gilbert Bitsch (page inexistante)">Gilbert Bitsch</a>, inventeur du <a href="/w/index.php?title=Lettrage_conversationnel&amp;action=edit&amp;redlink=1" class="new" title="Lettrage conversationnel (page inexistante)">lettrage conversationnel</a>, qui a mis fin aux ateliers de machines comptables dans les grandes entreprises et qui a ouvert la comptabilité à l'informatique.</li></ul>
+<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=3" title="Modifier la section : C" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=3" title="Modifier le code source de la section : C"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Robert_Cailliau" title="Robert Cailliau">Robert Cailliau</a> (<a href="/wiki/World_Wide_Web" title="World Wide Web">WWW</a>)</li>
 <li><a href="/wiki/Bob_Carr" title="Bob Carr">Bob Carr</a> (<a href="/wiki/Framework" title="Framework">Framework</a>)</li>
-<li><a href="/wiki/John_Carmack" title="John Carmack">John Carmack</a> (<a href="/wiki/3D" title="3D" class="mw-redirect">3D</a>, <a href="/wiki/Quake" title="Quake">Quake</a>, <a href="/wiki/Doom_(jeu_vid%C3%A9o)" title="Doom (jeu vidéo)">Doom</a>)</li>
-<li><a href="/wiki/Vinton_G._Cerf" title="Vinton G. Cerf" class="mw-redirect">Vinton G. Cerf</a> (<a href="/wiki/Internet" title="Internet">Internet</a>)</li>
+<li><a href="/wiki/John_Carmack" title="John Carmack">John Carmack</a> <i>(<a href="/wiki/3D" class="mw-redirect" title="3D">3D</a>, <a href="/wiki/Quake" title="Quake">Quake</a>, <a href="/wiki/Doom_(jeu_vid%C3%A9o,_1993)" title="Doom (jeu vidéo, 1993)">Doom</a>)</i></li>
+<li><a href="/wiki/Vinton_G._Cerf" class="mw-redirect" title="Vinton G. Cerf">Vinton G. Cerf</a>  (<a href="/wiki/Internet" title="Internet">Internet</a>)</li>
 <li><a href="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</a> (classification des <a href="/wiki/Grammaire" title="Grammaire">grammaires</a>)</li>
 <li><a href="/wiki/Alonzo_Church" title="Alonzo Church">Alonzo Church</a> (<a href="/wiki/Lambda-calcul" title="Lambda-calcul">lambda-calcul</a>)</li>
 <li><a href="/wiki/David_D._Clark" title="David D. Clark">David D. Clark</a> (<a href="/wiki/Internet" title="Internet">Internet</a>)</li>
-<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd" class="mw-redirect">Edgar F. Codd</a> (Théorie des <a href="/wiki/Base_de_donn%C3%A9es" title="Base de données">bases de données</a>, <a href="/wiki/Forme_normale_(bases_de_donn%C3%A9es_relationnelles)" title="Forme normale (bases de données relationnelles)">Formes normales</a>)</li>
+<li><a href="/wiki/Edgar_F._Codd" class="mw-redirect" title="Edgar F. Codd">Edgar F. Codd</a> (théorie des <a href="/wiki/Base_de_donn%C3%A9es" title="Base de données">bases de données</a>, <a href="/wiki/Forme_normale_(bases_de_donn%C3%A9es_relationnelles)" title="Forme normale (bases de données relationnelles)">Formes normales</a>)</li>
 <li><a href="/wiki/Alain_Colmerauer" title="Alain Colmerauer">Alain Colmerauer</a> (Langage <a href="/wiki/Prolog" title="Prolog">Prolog</a>)</li>
 <li><a href="/wiki/Thierry_Coquand" title="Thierry Coquand">Thierry Coquand</a> (<a href="/wiki/Calcul_des_constructions" title="Calcul des constructions">calcul des constructions</a>, système <a href="/wiki/Coq_(logiciel)" title="Coq (logiciel)">coq</a>)</li>
-<li><a href="/w/index.php?title=Thomas_Cormen&amp;action=edit&amp;redlink=1" class="new" title="Thomas Cormen (page inexistante)">Thomas Cormen</a> (co-auteur du livre <a href="/w/index.php?title=Introduction_%C3%A0_l%27Algorithmique&amp;action=edit&amp;redlink=1" class="new" title="Introduction à l'Algorithmique (page inexistante)">Introduction à l'Algorithmique</a>)</li>
-<li><a href="/wiki/Fr%C3%A9d%C3%A9ric_Couchet" title="Frédéric Couchet">Frédéric Couchet</a> (<a href="/wiki/April_(association)" title="April (association)">April</a>, défenseur du <a href="/wiki/Logiciel_libre" title="Logiciel libre">Logiciel libre</a>)</li>
-<li><a href="/wiki/Alan_Cox" title="Alan Cox">Alan Cox</a> (Noyau <a href="/wiki/Linux" title="Linux">Linux</a>)</li>
-<li><a href="/wiki/Seymour_Cray" title="Seymour Cray">Seymour Cray</a> (<a href="/wiki/Superordinateur" title="Superordinateur">Superordinateurs</a>)</li>
-<li><a href="/wiki/Haskell_Curry" title="Haskell Curry">Haskell Curry</a> (Logique et théorie des systèmes formels)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=4" title="Modifier la section : D">modifier</a>]</span> <span class="mw-headline" id="D">D</span></h2>
-<ul>
-<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a>, co-créateur du langage <a href="/wiki/Simula" title="Simula">Simula</a> et de la <a href="/wiki/Programmation_orient%C3%A9e_objet" title="Programmation orientée objet">programmation orientée objet</a></li>
-<li><a href="/wiki/Paul_de_Faget_de_Casteljau" title="Paul de Faget de Casteljau">Paul de Faget de Casteljau</a> (CAO)</li>
-<li><a href="/wiki/Jean-Paul_Delahaye" title="Jean-Paul Delahaye">Jean-Paul Delahaye</a>, Chercheur vulgarisateur</li>
-<li><a href="/wiki/Edsger_Dijkstra" title="Edsger Dijkstra">Edsger Dijkstra</a> (créateur du concept de <a href="/wiki/S%C3%A9maphore_(informatique)" title="Sémaphore (informatique)">sémaphore</a> et incisif promoteur de la <a href="/wiki/Programmation_structur%C3%A9e" title="Programmation structurée">programmation structurée</a>, <a href="/wiki/Pays-Bas" title="Pays-Bas">néerlandais</a>)</li>
-<li><a href="/wiki//dev/null" title="/dev/null">Dave Null</a>, personnage fictif</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=5" title="Modifier la section : E">modifier</a>]</span> <span class="mw-headline" id="E">E</span></h2>
-<ul>
-<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> (<a href="/wiki/Souris_(informatique)" title="Souris (informatique)">souris</a>, <a href="/wiki/Interface_graphique" title="Interface graphique">interface graphique</a>)</li>
-<li><a href="/w/index.php?title=Philip_Estridge&amp;action=edit&amp;redlink=1" class="new" title="Philip Estridge (page inexistante)">Philip Estridge</a> (concepteur de l'IBM PC)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=6" title="Modifier la section : F">modifier</a>]</span> <span class="mw-headline" id="F">F</span></h2>
-<ul>
-<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a>, <a href="/wiki/Intelligence_artificielle" title="Intelligence artificielle">intelligence artificielle</a></li>
-<li><a href="/wiki/Jay_Forrester" title="Jay Forrester" class="mw-redirect">Jay Forrester</a> (Whirlwind)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=7" title="Modifier la section : G">modifier</a>]</span> <span class="mw-headline" id="G">G</span></h2>
-<ul>
-<li><a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a> (<a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>)</li>
-<li><a href="/w/index.php?title=Erol_Gelenbe&amp;action=edit&amp;redlink=1" class="new" title="Erol Gelenbe (page inexistante)">Erol Gelenbe</a> (modélisation mathématique des systèmes informatiques)</li>
-<li><a href="/wiki/Fran%C3%A7ois_Gernelle" title="François Gernelle">François Gernelle</a> (inventeur du premier <a href="/wiki/Micro-ordinateur" title="Micro-ordinateur" class="mw-redirect">micro-ordinateur</a>, le <a href="/wiki/Micral" title="Micral">Micral</a>)</li>
-<li><a href="/w/index.php?title=Charles_Goldfarb&amp;action=edit&amp;redlink=1" class="new" title="Charles Goldfarb (page inexistante)">Charles Goldfarb</a>, (<a href="/wiki/International_Business_Machines_Corporation" title="International Business Machines Corporation" class="mw-redirect">IBM</a>, inventeur du langage de marquage universel <a href="/wiki/Standard_Generalized_Markup_Language" title="Standard Generalized Markup Language">SGML</a> qui donnera naissance à <a href="/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language">HTML</a> et à <a href="/wiki/Extensible_Markup_Language" title="Extensible Markup Language">XML</a>)</li>
-<li><a href="/wiki/James_Gosling" title="James Gosling">James Gosling</a> (<a href="/wiki/Langage_de_programmation_Java" title="Langage de programmation Java" class="mw-redirect">Java</a>)</li>
+<li><a href="/wiki/Thomas_H._Cormen" title="Thomas H. Cormen">Thomas H. Cormen</a> (coauteur du livre <i><a href="/wiki/Introduction_%C3%A0_l%27algorithmique" title="Introduction à l&#39;algorithmique">Introduction à l'algorithmique</a></i>)</li>
+<li>Frédéric Couchet (<a href="/wiki/April_(association)" title="April (association)">April</a>, défenseur du <a href="/wiki/Logiciel_libre" title="Logiciel libre">logiciel libre</a>)</li>
+<li><a href="/wiki/Louis_Couffignal" title="Louis Couffignal">Louis Couffignal</a></li>
+<li><a href="/wiki/Alan_Cox_(programmeur)" title="Alan Cox (programmeur)">Alan Cox</a> (noyau <a href="/wiki/Linux" title="Linux">Linux</a>)</li>
+<li><a href="/wiki/Seymour_Cray" title="Seymour Cray">Seymour Cray</a> (<a href="/wiki/Superordinateur" title="Superordinateur">superordinateurs</a> CDC et Cray)</li>
+<li><a href="/wiki/Marion_Cr%C3%A9hange" title="Marion Créhange">Marion Créhange</a>, une des premières à faire une thèse en informatique</li>
+<li><a href="/wiki/Yann_Le_Cun" title="Yann Le Cun">Yann Le Cun</a> (<a href="/wiki/Apprentissage_profond" title="Apprentissage profond">Apprentissage profond</a> (deep learning))</li>
+<li><a href="/wiki/Haskell_Curry" title="Haskell Curry">Haskell Curry</a> (logique et théorie des systèmes formels)</li></ul>
+<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=4" title="Modifier la section : D" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=4" title="Modifier le code source de la section : D"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a>, cocréateur du langage <a href="/wiki/Simula" title="Simula">Simula</a> et de la <a href="/wiki/Programmation_orient%C3%A9e_objet" title="Programmation orientée objet">programmation orientée objet</a></li>
+<li><a href="/wiki/Paul_de_Faget_de_Casteljau" class="mw-redirect" title="Paul de Faget de Casteljau">Paul de Faget de Casteljau</a> (CAO)</li>
+<li><a href="/wiki/Jean-Paul_Delahaye_(math%C3%A9maticien)" class="mw-redirect" title="Jean-Paul Delahaye (mathématicien)">Jean-Paul Delahaye</a>, chercheur vulgarisateur</li>
+<li><a href="/wiki/Vinod_Dham" title="Vinod Dham">Vinod Dham</a>, père du <a href="/wiki/Pentium" class="mw-disambig" title="Pentium">Pentium</a></li>
+<li><a href="/wiki/Edsger_Dijkstra" title="Edsger Dijkstra">Edsger Dijkstra</a> (créateur du concept de <a href="/wiki/S%C3%A9maphore_(informatique)" title="Sémaphore (informatique)">sémaphore</a> et incisif promoteur de la <a href="/wiki/Programmation_structur%C3%A9e" title="Programmation structurée">programmation structurée</a>, <a href="/wiki/Pays-Bas" title="Pays-Bas">néerlandais</a>)</li></ul>
+<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=5" title="Modifier la section : E" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=5" title="Modifier le code source de la section : E"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> (<a href="/wiki/Souris_(informatique)" title="Souris (informatique)">souris</a><sup id="cite_ref-DI_9335_1-1" class="reference"><a href="#cite_note-DI_9335-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>, <a href="/wiki/Interface_graphique" title="Interface graphique">interface graphique</a>)</li>
+<li><a href="/w/index.php?title=Philip_Estridge&amp;action=edit&amp;redlink=1" class="new" title="Philip Estridge (page inexistante)">Philip Estridge</a>&#160;<a href="https://en.wikipedia.org/wiki/Philip_Estridge" class="extiw" title="en:Philip Estridge"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Philip Estridge&#160;»">(en)</span></a> (concepteur de l'IBM PC)</li>
+<li><a href="/wiki/Andre%C3%AF_Ershov" class="mw-redirect" title="Andreï Ershov">Andreï Ershov</a> (Russie)</li></ul>
+<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=6" title="Modifier la section : F" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=6" title="Modifier le code source de la section : F"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a>, <a href="/wiki/Intelligence_artificielle" title="Intelligence artificielle">intelligence artificielle</a></li>
+<li><a href="/wiki/Philippe_Flajolet" title="Philippe Flajolet">Philippe Flajolet</a> (<a href="/wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes" title="Analyse de la complexité des algorithmes">analyse d'algorithmes en moyenne</a>, <a href="/wiki/Algorithme_d%27apprentissage_incr%C3%A9mental" title="Algorithme d&#39;apprentissage incrémental">algorithme d'apprentissage incrémental</a>, génération aléatoire, <a href="/wiki/Combinatoire_analytique" title="Combinatoire analytique">combinatoire analytique</a>, <a href="/wiki/Calcul_formel" title="Calcul formel">calcul formel</a>)</li>
+<li><a href="/wiki/Jay_Forrester" class="mw-redirect" title="Jay Forrester">Jay Forrester</a>  (Whirlwind)</li>
+<li><a href="/wiki/Alexandra_Illmer_Forsythe" title="Alexandra Illmer Forsythe">Alexandra Illmer Forsythe</a>, premier manuel d'enseignement en informatique aux États-Unis, en 1969</li></ul>
+<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=7" title="Modifier la section : G" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=7" title="Modifier le code source de la section : G"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a> (<a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>)</li>
+<li><a href="/wiki/Erol_Gelenbe" title="Erol Gelenbe">Erol Gelenbe</a> (modélisation mathématique des systèmes informatiques)</li>
+<li><a href="/wiki/Fran%C3%A7ois_Gernelle" title="François Gernelle">François Gernelle</a> (inventeur du premier <a href="/wiki/Micro-ordinateur" class="mw-redirect" title="Micro-ordinateur">micro-ordinateur</a>, le <a href="/wiki/Micral" title="Micral">Micral</a>)</li>
+<li><a href="/w/index.php?title=Charles_Goldfarb&amp;action=edit&amp;redlink=1" class="new" title="Charles Goldfarb (page inexistante)">Charles Goldfarb</a>&#160;<a href="https://en.wikipedia.org/wiki/Charles_Goldfarb" class="extiw" title="en:Charles Goldfarb"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Charles Goldfarb&#160;»">(en)</span></a>, (<a href="/wiki/International_Business_Machines_Corporation" class="mw-redirect" title="International Business Machines Corporation">IBM</a>, inventeur en 1969 du <a href="/wiki/Generalized_Markup_Language" title="Generalized Markup Language">Generalized Markup Language</a> avec Edward Mosher et Raymond Lorie, inventeur du langage de marquage universel <a href="/wiki/Standard_Generalized_Markup_Language" title="Standard Generalized Markup Language">SGML</a> qui donnera naissance à <a href="/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language">HTML</a> et à <a href="/wiki/Extensible_Markup_Language" title="Extensible Markup Language">XML</a>)</li>
+<li><a href="/wiki/James_Gosling" title="James Gosling">James Gosling</a> (<a href="/wiki/Langage_de_programmation_Java" class="mw-redirect" title="Langage de programmation Java">Java</a>)</li>
 <li><a href="/wiki/Henri_Gouraud_(chercheur)" title="Henri Gouraud (chercheur)">Henri Gouraud</a> (inventeur de l'algorithme de lissage des ombrages qui porte son nom)</li>
-<li>Frank Gray (inventeur du <a href="/wiki/Code_Gray" title="Code Gray" class="mw-redirect">code Gray</a>)</li>
-<li><a href="/wiki/James_Gray_(informaticien)" title="James Gray (informaticien)">Jim Gray</a> (lauréat du <a href="/wiki/Prix_Turing" title="Prix Turing">prix Turing</a> en 1998)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=8" title="Modifier la section : H">modifier</a>]</span> <span class="mw-headline" id="H">H</span></h2>
-<ul>
+<li>Frank Gray (inventeur du <a href="/wiki/Code_Gray" class="mw-redirect" title="Code Gray">code Gray</a>)</li>
+<li><a href="/wiki/James_Gray_(informaticien)" title="James Gray (informaticien)">Jim Gray</a> (lauréat du <a href="/wiki/Prix_Turing" title="Prix Turing">prix Turing</a> en 1998)</li></ul>
+<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=8" title="Modifier la section : H" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=8" title="Modifier le code source de la section : H"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Margaret_Hamilton_(scientifique)" title="Margaret Hamilton (scientifique)">Margaret Hamilton</a>, (invention du <a href="/wiki/G%C3%A9nie_logiciel" title="Génie logiciel">génie logiciel</a>)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup>.</li>
 <li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> (<a href="/wiki/Code_de_Hamming" title="Code de Hamming">Code de Hamming</a>)</li>
+<li><a href="/wiki/Les_Hatton" title="Les Hatton">Les Hatton</a> (défaillances de logiciels et de systèmes, <a href="/wiki/Universit%C3%A9_Kingston" title="Université Kingston">Université Kingston</a>)</li>
 <li><a href="/w/index.php?title=Michael_Hawley&amp;action=edit&amp;redlink=1" class="new" title="Michael Hawley (page inexistante)">Michael Hawley</a> (<a href="/w/index.php?title=SoundDroid&amp;action=edit&amp;redlink=1" class="new" title="SoundDroid (page inexistante)">SoundDroid</a>)</li>
-<li><a href="/wiki/Anders_Hejlsberg" title="Anders Hejlsberg">Anders Hejlsberg</a> (Créateur du <a href="/wiki/Turbo_Pascal" title="Turbo Pascal">Turbo Pascal</a>, de <a href="/wiki/Delphi_(informatique)" title="Delphi (informatique)" class="mw-redirect">Delphi</a> puis du langage <a href="/wiki/C_sharp" title="C sharp">C#</a>)</li>
+<li><a href="/wiki/Anders_Hejlsberg" title="Anders Hejlsberg">Anders Hejlsberg</a> (créateur du <a href="/wiki/Turbo_Pascal" title="Turbo Pascal">Turbo Pascal</a>, de <a href="/wiki/Delphi_(informatique)" class="mw-redirect" title="Delphi (informatique)">Delphi</a> puis du langage <a href="/wiki/C_sharp" class="mw-redirect" title="C sharp">C#</a>)</li>
 <li><a href="/wiki/William_Hewlett" title="William Hewlett">William Hewlett</a> et <a href="/wiki/David_Packard" title="David Packard">David Packard</a> fondateurs de la société <a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">Hewlett-Packard</a></li>
-<li><a href="/wiki/Charles_Antony_Richard_Hoare" title="Charles Antony Richard Hoare">Charles Antony Richard Hoare</a> (<a href="/wiki/Quicksort" title="Quicksort" class="mw-redirect">quicksort</a>, <a href="/wiki/Logique_de_Hoare" title="Logique de Hoare">logique de Hoare</a>)</li>
-<li><a href="/wiki/Herman_Hollerith" title="Herman Hollerith">Herman Hollerith</a> (<a href="/wiki/International_Business_Machines_Corporation" title="International Business Machines Corporation" class="mw-redirect">IBM</a>)</li>
-<li><a href="/wiki/Grace_Hopper" title="Grace Hopper">Grace Hopper</a> (<a href="/wiki/COBOL" title="COBOL">COBOL</a> et premier compilateur)</li>
+<li><a href="/wiki/Charles_Antony_Richard_Hoare" title="Charles Antony Richard Hoare">Charles Antony Richard Hoare</a> (<a href="/wiki/Quicksort" class="mw-redirect" title="Quicksort">quicksort</a>, <a href="/wiki/Logique_de_Hoare" title="Logique de Hoare">logique de Hoare</a>)</li>
+<li><a href="/wiki/Herman_Hollerith" title="Herman Hollerith">Herman Hollerith</a> (tabulatrice, <a href="/wiki/International_Business_Machines_Corporation" class="mw-redirect" title="International Business Machines Corporation">IBM</a>)</li>
+<li><a href="/wiki/Grace_Hopper" title="Grace Hopper">Grace Hopper</a> (<a href="/wiki/COBOL" class="mw-redirect" title="COBOL">COBOL</a> et premier compilateur)</li>
 <li><a href="/wiki/Christian_Huitema" title="Christian Huitema">Christian Huitema</a> (<a href="/wiki/Internet" title="Internet">Internet</a>)</li>
-<li><a href="/wiki/G%C3%A9rard_Huet" title="Gérard Huet">Gérard Huet</a> (langages fonctionnels, académie des Sciences, <a href="/wiki/Institut_national_de_recherche_en_informatique_et_en_automatique" title="Institut national de recherche en informatique et en automatique" class="mw-redirect">INRIA</a>)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=9" title="Modifier la section : I">modifier</a>]</span> <span class="mw-headline" id="I">I</span></h2>
-<ul>
-<li><a href="/wiki/Kenneth_Iverson" title="Kenneth Iverson">Kenneth Iverson</a> (<a href="/wiki/APL_(langage)" title="APL (langage)">APL</a>)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=10" title="Modifier la section : J">modifier</a>]</span> <span class="mw-headline" id="J">J</span></h2>
-<ul>
-<li><a href="/wiki/Joseph-Marie_Jacquard" title="Joseph-Marie Jacquard" class="mw-redirect">Joseph-Marie Jacquard</a> (inventeur de la <a href="/wiki/Programmation" title="Programmation" class="mw-redirect">programmation</a> par <a href="/wiki/Carte_perfor%C3%A9e" title="Carte perforée">carte perforée</a> des métiers à tisser)</li>
-<li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a> (<a href="/wiki/Apple,_Inc." title="Apple, Inc." class="mw-redirect">Apple</a>)</li>
-<li><a href="/wiki/Bill_Joy" title="Bill Joy">Bill Joy</a> (<a href="/wiki/Unix" title="Unix">Unix</a> <a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">BSD</a>, <a href="/wiki/Vi_(unix)" title="Vi (unix)" class="mw-redirect">vi</a>)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=11" title="Modifier la section : K">modifier</a>]</span> <span class="mw-headline" id="K">K</span></h2>
-<ul>
-<li><a href="/wiki/Gilles_Kahn" title="Gilles Kahn">Gilles Kahn</a> (1946-2006), directeur scientifique et PDG de l'<a href="/wiki/Institut_national_de_recherche_en_informatique_et_en_automatique" title="Institut national de recherche en informatique et en automatique" class="mw-redirect">INRIA</a>, premier chercheur en informatique élu membre de l'<a href="/wiki/Acad%C3%A9mie_des_sciences_(France)" title="Académie des sciences (France)">Académie des sciences</a></li>
-<li><a href="/wiki/Philippe_Kahn" title="Philippe Kahn">Philippe Kahn</a> (créateur du <a href="/wiki/Turbo_Pascal" title="Turbo Pascal">Turbo Pascal</a>, fondateur de <a href="/wiki/Borland" title="Borland">Borland</a>)</li>
+<li><a href="/wiki/G%C3%A9rard_Huet" title="Gérard Huet">Gérard Huet</a> (langages fonctionnels, Académie des sciences, <a href="/wiki/Institut_national_de_recherche_en_informatique_et_en_automatique" title="Institut national de recherche en informatique et en automatique">INRIA</a>)</li>
+<li><a href="/wiki/G%C3%BCnter_Hotz" title="Günter Hotz">Günter Hotz</a> (théorie des langages, automates) <i>Groupe de Hotz</i>, <a href="/wiki/Forme_normale_de_Greibach" title="Forme normale de Greibach">forme normale de Greibach</a> bilatère</li></ul>
+<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=9" title="Modifier la section : I" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=9" title="Modifier le code source de la section : I"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Jean_Ichbiah" title="Jean Ichbiah">Jean Ichbiah</a> (Siris 7, 8&#160;; langages LIS, <a href="/wiki/Ada_(langage)" title="Ada (langage)">Ada</a>)</li>
+<li><a href="/wiki/Kenneth_Iverson" title="Kenneth Iverson">Kenneth Iverson</a> (<a href="/wiki/APL_(langage)" title="APL (langage)">APL</a>)</li></ul>
+<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=10" title="Modifier la section : J" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=10" title="Modifier le code source de la section : J"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Joseph-Marie_Jacquard" class="mw-redirect" title="Joseph-Marie Jacquard">Joseph-Marie Jacquard</a> (inventeur de la <a href="/wiki/Programmation" class="mw-redirect" title="Programmation">programmation</a> par <a href="/wiki/Carte_perfor%C3%A9e" title="Carte perforée">carte perforée</a> des métiers à tisser)</li>
+<li><a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a> (<a href="/wiki/Apple" title="Apple">Apple</a>)</li>
+<li><a href="/wiki/Bill_Joy" title="Bill Joy">Bill Joy</a> (<a href="/wiki/Unix" title="Unix">Unix</a> <a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">BSD</a>, <a href="/wiki/Vi_(unix)" class="mw-redirect" title="Vi (unix)">vi</a>)</li></ul>
+<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=11" title="Modifier la section : K" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=11" title="Modifier le code source de la section : K"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Gilles_Kahn" title="Gilles Kahn">Gilles Kahn</a> (1946-2006), directeur scientifique et PDG de l'<a href="/wiki/Institut_national_de_recherche_en_informatique_et_en_automatique" title="Institut national de recherche en informatique et en automatique">INRIA</a>, premier chercheur en informatique élu membre de l'<a href="/wiki/Acad%C3%A9mie_des_sciences_(France)" title="Académie des sciences (France)">Académie des sciences</a></li>
+<li><a href="/wiki/Philippe_Kahn_(entrepreneur)" class="mw-redirect" title="Philippe Kahn (entrepreneur)">Philippe Kahn</a> (créateur du <a href="/wiki/Turbo_Pascal" title="Turbo Pascal">Turbo Pascal</a>, fondateur de <a href="/wiki/Borland" title="Borland">Borland</a>)</li>
 <li><a href="/wiki/Mitch_Kapor" title="Mitch Kapor">Mitch Kapor</a> (Lotus 1-2-3)</li>
-<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> (Langage <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a>)</li>
-<li><a href="/wiki/Brian_Kernighan" title="Brian Kernighan">Brian Kernighan</a> (<a href="/wiki/UNIX" title="UNIX" class="mw-redirect">UNIX</a>, C)</li>
-<li><a href="/wiki/Gary_Kildall" title="Gary Kildall">Gary Kildall</a> (créateur du <a href="/wiki/Syst%C3%A8me_d%27exploitation" title="Système d'exploitation">SE</a> CP/M)</li>
-<li><a href="/wiki/Stephen_Cole_Kleene" title="Stephen Cole Kleene">Stephen Cole Kleene</a> (<a href="/wiki/Th%C3%A9orie_de_la_r%C3%A9cursion" title="Théorie de la récursion" class="mw-redirect">Théorie de la récursion</a>)</li>
-<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> (<a href="/wiki/The_Art_of_Computer_Programming" title="The Art of Computer Programming">The Art of Computer Programming</a>, <a href="/wiki/TeX" title="TeX">TeX</a>)</li>
-<li><a href="/wiki/Werner_Koch_(informaticien)" title="Werner Koch (informaticien)">Werner Koch</a> (<a href="/wiki/GnuPG" title="GnuPG" class="mw-redirect">GnuPG</a>)</li>
-<li><a href="/wiki/Jean-Louis_Krivine" title="Jean-Louis Krivine">Jean-Louis Krivine</a> (chercheur, spécialiste en <a href="/wiki/Lambda-calcul" title="Lambda-calcul">lambda-calcul</a> et en <a href="/wiki/Th%C3%A9orie_des_ensembles" title="Théorie des ensembles">théorie des ensembles</a>)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=12" title="Modifier la section : L">modifier</a>]</span> <span class="mw-headline" id="L">L</span></h2>
-<ul>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> (langage <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a>)</li>
+<li><a href="/wiki/Brian_Kernighan" title="Brian Kernighan">Brian Kernighan</a> (<a href="/wiki/UNIX" class="mw-redirect" title="UNIX">UNIX</a>, C)</li>
+<li><a href="/wiki/Gary_Kildall" title="Gary Kildall">Gary Kildall</a> (créateur du <a href="/wiki/Syst%C3%A8me_d%27exploitation" title="Système d&#39;exploitation">SE</a> CP/M)</li>
+<li><a href="/wiki/Stephen_Cole_Kleene" title="Stephen Cole Kleene">Stephen Cole Kleene</a> (<a href="/wiki/Th%C3%A9orie_de_la_r%C3%A9cursion" class="mw-redirect" title="Théorie de la récursion">théorie de la récursion</a>)</li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> (<i><a href="/wiki/The_Art_of_Computer_Programming" title="The Art of Computer Programming">The Art of Computer Programming</a></i>, <a href="/wiki/TeX" title="TeX">TeX</a>)</li>
+<li><a href="/wiki/Werner_Koch_(informaticien)" title="Werner Koch (informaticien)">Werner Koch</a> (<a href="/wiki/GnuPG" class="mw-redirect" title="GnuPG">GnuPG</a>)</li>
+<li><a href="/wiki/Jean-Louis_Krivine" title="Jean-Louis Krivine">Jean-Louis Krivine</a> (chercheur, spécialiste en <a href="/wiki/Lambda-calcul" title="Lambda-calcul">lambda-calcul</a> et en <a href="/wiki/Th%C3%A9orie_des_ensembles" title="Théorie des ensembles">théorie des ensembles</a>)</li></ul>
+<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=12" title="Modifier la section : L" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=12" title="Modifier le code source de la section : L"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Hedy_Lamarr" title="Hedy Lamarr">Hedy Lamarr</a> (actrice et co-inventrice d'une forme de codage des transmissions par <a href="/wiki/%C3%89talement_de_spectre" title="Étalement de spectre">étalement de spectre</a> base de la technologie <a href="/wiki/Wi-Fi" title="Wi-Fi">Wi-Fi</a>)</li>
 <li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> (<a href="/wiki/LaTeX" title="LaTeX">LaTeX</a>)</li>
+<li><a href="/wiki/Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz">Gottfried Whilelm Leibniz</a> (arithmétique binaire, 1703)</li>
 <li><a href="/wiki/Douglas_Lenat" title="Douglas Lenat">Douglas Lenat</a> (<a href="/wiki/Intelligence_artificielle" title="Intelligence artificielle">intelligence artificielle</a>)</li>
-<li><a href="/wiki/Rasmus_Lerdorf" title="Rasmus Lerdorf">Rasmus Lerdorf</a> (<a href="/wiki/PHP:_Hypertext_Preprocessor" title="PHP: Hypertext Preprocessor" class="mw-redirect">PHP</a>)</li>
-<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> (<a href="/w/index.php?title=Abstraction_de_donn%C3%A9es&amp;action=edit&amp;redlink=1" class="new" title="Abstraction de données (page inexistante)">abstraction de données</a>)</li>
-<li><a href="/wiki/Ada_Lovelace" title="Ada Lovelace">Ada Lovelace</a> (qui a donné son prénom au <a href="/wiki/Ada_(langage)" title="Ada (langage)">langage ADA</a>)</li>
-<li><a href="/wiki/Xavier_Leroy" title="Xavier Leroy">Xavier Leroy</a> (chercheur à l'<a href="/wiki/INRIA" title="INRIA" class="mw-redirect">INRIA</a>, langage <a href="/wiki/OCaml" title="OCaml">OCaml</a>)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=13" title="Modifier la section : M">modifier</a>]</span> <span class="mw-headline" id="M">M</span></h2>
-<ul>
-<li><a href="/wiki/Robert_Mallet_(entrepreneur)" title="Robert Mallet (entrepreneur)">Robert Mallet</a> (méthode CORIG)</li>
+<li><a href="/wiki/Rasmus_Lerdorf" title="Rasmus Lerdorf">Rasmus Lerdorf</a> (<a href="/wiki/PHP:_Hypertext_Preprocessor" class="mw-redirect" title="PHP: Hypertext Preprocessor">PHP</a>)</li>
+<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> (<a href="/wiki/Abstraction_(informatique)" title="Abstraction (informatique)">abstraction de données</a>)</li>
+<li><a href="/wiki/Ada_Lovelace" title="Ada Lovelace">Ada Lovelace</a> (qui a donné son prénom au <a href="/wiki/Ada_(langage)" title="Ada (langage)">langage Ada</a>)</li>
+<li><a href="/wiki/Xavier_Leroy" title="Xavier Leroy">Xavier Leroy</a> (chercheur à l'<a href="/wiki/INRIA" class="mw-redirect" title="INRIA">INRIA</a>, langage <a href="/wiki/OCaml" title="OCaml">OCaml</a>)</li></ul>
+<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=13" title="Modifier la section : M" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=13" title="Modifier le code source de la section : M"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Robert_Mallet_(entrepreneur)" title="Robert Mallet (entrepreneur)">Robert Mallet</a> (méthode CORIG)</li>
 <li><a href="/wiki/Yukihiro_Matsumoto" title="Yukihiro Matsumoto">Yukihiro Matsumoto</a> (<a href="/wiki/Ruby" title="Ruby">Ruby</a>)</li>
-<li><a href="/wiki/John_Mauchly" title="John Mauchly" class="mw-redirect">John Mauchly</a> (<a href="/wiki/ENIAC" title="ENIAC" class="mw-redirect">ENIAC</a>)</li>
+<li><a href="/wiki/John_Mauchly" class="mw-redirect" title="John Mauchly">John Mauchly</a> (<a href="/wiki/Electronic_Numerical_Integrator_Analyser_and_Computer" class="mw-redirect" title="Electronic Numerical Integrator Analyser and Computer">ENIAC</a>)</li>
+<li><a href="/wiki/John_McCarthy" title="John McCarthy">John McCarthy</a> (<a href="/wiki/%C3%89lagage_alpha-b%C3%AAta" title="Élagage alpha-bêta">élagage alpha-bêta</a>, langage <a href="/wiki/Lisp_(langage)" class="mw-redirect" title="Lisp (langage)">Lisp</a>)</li>
 <li><a href="/wiki/Scott_McNealy" title="Scott McNealy">Scott McNealy</a> (<a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a>)</li>
 <li><a href="/wiki/Bertrand_Meyer" title="Bertrand Meyer">Bertrand Meyer</a> (<a href="/wiki/Eiffel_(langage)" title="Eiffel (langage)">Eiffel</a>)</li>
 <li><a href="/wiki/Jay_Miner" title="Jay Miner">Jay Miner</a> (<a href="/wiki/Amiga" title="Amiga">Amiga</a>)</li>
-<li><a href="/wiki/Kevin_Mitnick" title="Kevin Mitnick">Kevin Mitnick</a> (<a href="/wiki/Hacker_(s%C3%A9curit%C3%A9_informatique)" title="Hacker (sécurité informatique)">Hacker</a>)</li>
-<li><a href="/wiki/Shigeru_Miyamoto" title="Shigeru Miyamoto">Shigeru Miyamoto</a> (<a href="/wiki/Nintendo" title="Nintendo">Nintendo</a>)</li>
-<li><a href="/wiki/Gordon_E._Moore" title="Gordon E. Moore" class="mw-redirect">Gordon E. Moore</a> (<a href="/wiki/Loi_de_Moore" title="Loi de Moore">loi de Moore</a>)</li>
+<li><a href="/wiki/Kevin_Mitnick" title="Kevin Mitnick">Kevin Mitnick</a> (<a href="/wiki/Hacker_(s%C3%A9curit%C3%A9_informatique)" title="Hacker (sécurité informatique)">hacker</a>)</li>
+<li><a href="/wiki/Shigeru_Miyamoto" title="Shigeru Miyamoto">Shigeru Miyamoto</a> (<a href="/wiki/Nintendo" title="Nintendo">Nintendo</a>)<sup id="cite_ref-DI_9335_1-2" class="reference"><a href="#cite_note-DI_9335-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup></li>
+<li><a href="/wiki/Gordon_E._Moore" class="mw-redirect" title="Gordon E. Moore">Gordon E. Moore</a> (<a href="/wiki/Loi_de_Moore" title="Loi de Moore">loi de Moore</a>)</li>
 <li><a href="/wiki/Charles_H._Moore" title="Charles H. Moore">Charles H. Moore</a> (langage <a href="/wiki/Forth_(langage)" title="Forth (langage)">Forth</a>)</li>
 <li><a href="/wiki/Roland_Moreno" title="Roland Moreno">Roland Moreno</a> (<a href="/wiki/Carte_%C3%A0_puce" title="Carte à puce">Carte à puce</a>)</li>
 <li><a href="/wiki/Andrew_Morton" title="Andrew Morton">Andrew Morton</a> (<a href="/wiki/Linux" title="Linux">Linux</a>)</li>
 <li><a href="/wiki/Ian_Murdock" title="Ian Murdock">Ian Murdock</a> (<a href="/wiki/Debian" title="Debian">Debian</a>)</li>
-<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> (Prix Turing)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=14" title="Modifier la section : N">modifier</a>]</span> <span class="mw-headline" id="N">N</span></h2>
-<ul>
-<li><a href="/wiki/John_Forbes_Nash" title="John Forbes Nash">John Forbes Nash</a> (<a href="/wiki/%C3%89quilibre_de_Nash" title="Équilibre de Nash">Équilibre de Nash</a>)</li>
+<li><a href="/wiki/Elon_Musk" title="Elon Musk">Elon Musk (Paypal)</a></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> (prix Turing, outil de <a href="/wiki/D%C3%A9monstration_automatique_de_th%C3%A9or%C3%A8mes" title="Démonstration automatique de théorèmes">démonstration automatique de théorèmes</a>)</li></ul>
+<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=14" title="Modifier la section : N" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=14" title="Modifier le code source de la section : N"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/John_Forbes_Nash" title="John Forbes Nash">John Forbes Nash</a> (<a href="/wiki/%C3%89quilibre_de_Nash" title="Équilibre de Nash">Équilibre de Nash</a>)</li>
 <li><a href="/wiki/John_von_Neumann" title="John von Neumann">John von Neumann</a> (Architecture des ordinateurs)</li>
 <li><a href="/wiki/Ted_Nelson" title="Ted Nelson">Ted Nelson</a> (<a href="/wiki/Hypertexte" title="Hypertexte">hypertexte</a>)</li>
-<li><a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a>, co-créateur du langage <a href="/wiki/Simula" title="Simula">Simula</a> et de la <a href="/wiki/Programmation_orient%C3%A9e_objet" title="Programmation orientée objet">programmation orientée objet</a></li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=15" title="Modifier la section : O">modifier</a>]</span> <span class="mw-headline" id="O">O</span></h2>
-<ul>
-<li><a href="/wiki/Martin_Odersky" title="Martin Odersky">Martin Odersky</a> (<a href="/wiki/Scala_(langage)" title="Scala (langage)">Scala</a>)</li>
-<li><a href="/wiki/Kenneth_Olsen" title="Kenneth Olsen" class="mw-redirect">Kenneth Olsen</a> (DEC)</li>
+<li><a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a>, cocréateur du langage <a href="/wiki/Simula" title="Simula">Simula</a> et de la <a href="/wiki/Programmation_orient%C3%A9e_objet" title="Programmation orientée objet">programmation orientée objet</a></li></ul>
+<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=15" title="Modifier la section : O" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=15" title="Modifier le code source de la section : O"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Martin_Odersky" title="Martin Odersky">Martin Odersky</a> (<a href="/wiki/Scala_(langage)" title="Scala (langage)">Scala</a>)</li>
+<li><a href="/wiki/Kenneth_Olsen" class="mw-redirect" title="Kenneth Olsen">Kenneth Olsen</a> (DEC)</li>
 <li><a href="/wiki/Adam_Osborne" title="Adam Osborne">Adam Osborne</a> (<a href="/wiki/Osborne_1" title="Osborne 1">Osborne 1</a>)</li>
-<li><a href="/wiki/Joseph_Ossanna" title="Joseph Ossanna">Joseph Ossanna</a> (troff)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=16" title="Modifier la section : P">modifier</a>]</span> <span class="mw-headline" id="P">P</span></h2>
-<ul>
-<li><a href="/wiki/Claude_Pair" title="Claude Pair">Claude Pair</a>, pionnier français, créateur du <a href="/w/index.php?title=Centre_de_Recherche_en_Informatique_de_Nancy&amp;action=edit&amp;redlink=1" class="new" title="Centre de Recherche en Informatique de Nancy (page inexistante)">Centre de Recherche en Informatique de Nancy</a></li>
-<li><a href="/wiki/Blaise_Pascal" title="Blaise Pascal">Blaise Pascal</a> (Pascaline)</li>
+<li><a href="/wiki/Joseph_Ossanna" title="Joseph Ossanna">Joseph Ossanna</a> (troff)</li></ul>
+<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=16" title="Modifier la section : P" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=16" title="Modifier le code source de la section : P"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Claude_Pair" title="Claude Pair">Claude Pair</a>, pionnier français, créateur du <a href="/wiki/Centre_de_recherche_en_informatique_de_Nancy" class="mw-redirect" title="Centre de recherche en informatique de Nancy">Centre de recherche en informatique de Nancy</a></li>
+<li><a href="/wiki/Blaise_Pascal" title="Blaise Pascal">Blaise Pascal</a> (pascaline)</li>
 <li><a href="/wiki/Roland_Perry" title="Roland Perry">Roland Perry</a> (<a href="/wiki/Amstrad_CPC" title="Amstrad CPC">Amstrad CPC</a>)</li>
-<li><a href="/wiki/Bui_Tuong_Phong" title="Bui Tuong Phong" class="mw-redirect">Bui Tuong Phong</a> (algorithme d'ombrage en informatique graphique)</li>
-<li><a href="/wiki/Jon_Postel" title="Jon Postel">Jon Postel</a> (<a href="/wiki/Arpanet" title="Arpanet" class="mw-redirect">Arpanet</a>, <a href="/wiki/Internet" title="Internet">Internet</a>)</li>
-<li><a href="/wiki/J._Presper_Eckert" title="J. Presper Eckert" class="mw-redirect">J. Presper Eckert</a> (<a href="/wiki/ENIAC" title="ENIAC" class="mw-redirect">ENIAC</a>)</li>
-<li><a href="/wiki/Jacques_Pitrat" title="Jacques Pitrat">Jacques Pitrat</a> (chercheur en intelligence artificielle, <a href="/wiki/M%C3%A9ta-connaissance" title="Méta-connaissance" class="mw-redirect">méta-connaissance</a>)</li>
-<li><a href="/wiki/Markus_Persson" title="Markus Persson">Markus Persson</a> (<a href="/w/index.php?title=Mojang_AB&amp;action=edit&amp;redlink=1" class="new" title="Mojang AB (page inexistante)">Mojang AB</a>, <a href="/wiki/Minecraft" title="Minecraft">Minecraft</a>)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=17" title="Modifier la section : R">modifier</a>]</span> <span class="mw-headline" id="R">R</span></h2>
-<ul>
-<li><a href="/w/index.php?title=C._Wayne_Ratliff&amp;action=edit&amp;redlink=1" class="new" title="C. Wayne Ratliff (page inexistante)">C. Wayne Ratliff</a> (<a href="/wiki/DBase" title="DBase">DBase</a>)</li>
-<li><a href="/wiki/Eric_Raymond" title="Eric Raymond">Eric Raymond</a> (Fondateur de l'<a href="/wiki/Open_Source_Initiative" title="Open Source Initiative">Open Source Initiative</a>)</li>
-<li><a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> (<a href="/wiki/Langage_C" title="Langage C" class="mw-redirect">langage C</a>)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=18" title="Modifier la section : S">modifier</a>]</span> <span class="mw-headline" id="S">S</span></h2>
-<ul>
-<li><a href="/wiki/Jonathan_Sachs" title="Jonathan Sachs">Jonathan Sachs</a> (<a href="/wiki/Lotus_1-2-3" title="Lotus 1-2-3">Lotus 1-2-3</a>)</li>
-<li><a href="/wiki/Marcel-Paul_Sch%C3%BCtzenberger" title="Marcel-Paul Schützenberger">Marcel-Paul Schützenberger</a> (Langages formels, théorie des codes, combinatoire des mots)</li>
-<li><a href="/wiki/Claude_Shannon" title="Claude Shannon">Claude Shannon</a> (<a href="/wiki/Th%C3%A9orie_de_l%27information" title="Théorie de l'information">Théorie de l'information</a>)</li>
-<li><a href="/wiki/Tsutomu_Shimomura" title="Tsutomu Shimomura">Tsutomu Shimomura</a> (<a href="/wiki/S%C3%A9curit%C3%A9_informatique" title="Sécurité informatique" class="mw-redirect">Sécurité informatique</a>)</li>
-<li><a href="/wiki/Herbert_Simon" title="Herbert Simon">Herbert Simon</a> (<a href="/wiki/Intelligence_artificielle" title="Intelligence artificielle">Intelligence artificielle</a>)</li>
+<li><a href="/wiki/Bui_Tuong_Phong" class="mw-redirect" title="Bui Tuong Phong">Bui Tuong Phong</a> (algorithme d'ombrage en informatique graphique)</li>
+<li><a href="/wiki/Ren%C3%A9_de_Possel" title="René de Possel">René de Possel</a> (pionnier de la reconnaissance automatique de textes)</li>
+<li><a href="/wiki/Jon_Postel" title="Jon Postel">Jon Postel</a> (<a href="/wiki/Arpanet" class="mw-redirect" title="Arpanet">Arpanet</a>, <a href="/wiki/Internet" title="Internet">Internet</a>)</li>
+<li><a href="/wiki/Louis_Pouzin" title="Louis Pouzin">Louis Pouzin</a> (inventeur du <a href="/wiki/Datagramme" title="Datagramme">datagramme</a>)</li>
+<li><a href="/wiki/J._Presper_Eckert" class="mw-redirect" title="J. Presper Eckert">J. Presper Eckert</a> (<a href="/wiki/Electronic_Numerical_Integrator_Analyser_and_Computer" class="mw-redirect" title="Electronic Numerical Integrator Analyser and Computer">ENIAC</a>)</li>
+<li><a href="/wiki/Jacques_Pitrat" title="Jacques Pitrat">Jacques Pitrat</a> (chercheur en intelligence artificielle, <a href="/wiki/M%C3%A9ta-connaissance" class="mw-redirect" title="Méta-connaissance">méta-connaissance</a>)</li></ul>
+<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=17" title="Modifier la section : R" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=17" title="Modifier le code source de la section : R"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Jef_Raskin" title="Jef Raskin">Jef Raskin</a> (<a href="/wiki/Macintosh" title="Macintosh">Macintosh</a>)</li>
+<li><a href="/wiki/Wayne_Ratliff" title="Wayne Ratliff">Wayne Ratliff</a> (créateur de <a href="/wiki/DBase" title="DBase">dBase</a>)</li>
+<li><a href="/wiki/Eric_Raymond" title="Eric Raymond">Eric Raymond</a> (fondateur de l'<a href="/wiki/Open_Source_Initiative" title="Open Source Initiative">Open Source Initiative</a>)</li>
+<li><a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> (<a href="/wiki/Langage_C" class="mw-redirect" title="Langage C">langage C</a>)</li>
+<li><a href="/wiki/Stuart_Russell" title="Stuart Russell">Stuart Russell</a> (<a href="/wiki/Intelligence_artificielle" title="Intelligence artificielle">intelligence artificielle</a>)</li>
+<li><a href="/wiki/Laurent_Ribardiere" class="mw-redirect" title="Laurent Ribardiere">Laurent Ribardiere</a> (<a href="/wiki/4e_Dimension_(langage)" title="4e Dimension (langage)">4D</a>)</li></ul>
+<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=18" title="Modifier la section : S" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=18" title="Modifier le code source de la section : S"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Jonathan_Sachs" title="Jonathan Sachs">Jonathan Sachs</a> (<a href="/wiki/Lotus_1-2-3" title="Lotus 1-2-3">Lotus 1-2-3</a>)</li>
+<li><a href="/wiki/Sarita_Schoenebeck" title="Sarita Schoenebeck">Sarita Schoenebeck</a> (<a href="/wiki/Interactions_homme-machine" class="mw-redirect" title="Interactions homme-machine">Interactions homme-machine</a>, <a href="/wiki/M%C3%A9dia_social" title="Média social">médias sociaux</a>, <a href="/w/index.php?title=Informatique_sociale&amp;action=edit&amp;redlink=1" class="new" title="Informatique sociale (page inexistante)">informatique sociale</a>&#160;<a href="https://en.wikipedia.org/wiki/Social_computing" class="extiw" title="en:Social computing"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Social computing&#160;»">(en)</span></a>)</li>
+<li><a href="/wiki/Marcel-Paul_Sch%C3%BCtzenberger" title="Marcel-Paul Schützenberger">Marcel-Paul Schützenberger</a> (Langages formels, <a href="/wiki/Th%C3%A9orie_des_codes" title="Théorie des codes">théorie des codes</a>, <a href="/wiki/Combinatoire_des_mots" title="Combinatoire des mots">combinatoire des mots</a>)</li>
+<li><a href="/wiki/Claude_Shannon" title="Claude Shannon">Claude Shannon</a> (<a href="/wiki/Th%C3%A9orie_de_l%27information" title="Théorie de l&#39;information">théorie de l'information</a>)</li>
+<li><a href="/wiki/Mary_Shaw_(informaticienne)" title="Mary Shaw (informaticienne)">Mary Shaw</a> (<a href="/wiki/Architecture_logicielle" title="Architecture logicielle">architecture</a> et <a href="/wiki/G%C3%A9nie_logiciel" title="Génie logiciel">génie logiciel</a>)</li>
+<li><a href="/wiki/Tsutomu_Shimomura" title="Tsutomu Shimomura">Tsutomu Shimomura</a> (<a href="/wiki/S%C3%A9curit%C3%A9_informatique" class="mw-redirect" title="Sécurité informatique">sécurité informatique</a>)</li>
+<li><a href="/wiki/Herbert_Simon" title="Herbert Simon">Herbert Simon</a> (<a href="/wiki/Intelligence_artificielle" title="Intelligence artificielle">intelligence artificielle</a>)</li>
 <li><a href="/wiki/Charles_Simonyi" title="Charles Simonyi">Charles Simonyi</a> (<a href="/wiki/Multiplan" title="Multiplan">Multiplan</a>)</li>
-<li><a href="/wiki/Clive_Sinclair" title="Clive Sinclair">Clive Sinclair</a> (<a href="/wiki/Sinclair_Research" title="Sinclair Research" class="mw-redirect">Sinclair</a>)</li>
-<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Richard Stallman</a> (<a href="/wiki/Logiciel_Libre" title="Logiciel Libre" class="mw-redirect">Logiciel Libre</a>, <a href="/wiki/GNU" title="GNU">GNU</a>, <a href="/wiki/Fondation_pour_le_logiciel_libre" title="Fondation pour le logiciel libre" class="mw-redirect">FSF</a>, <a href="/wiki/Emacs" title="Emacs">Emacs</a>)</li>
+<li><a href="/wiki/Clive_Sinclair" title="Clive Sinclair">Clive Sinclair</a> (<a href="/wiki/Sinclair_Research" title="Sinclair Research">Sinclair</a>)</li>
+<li><a href="/wiki/Ambros_P._Speiser" title="Ambros P. Speiser">Ambros P. Speiser</a> (premier ordinateur suisse)</li>
+<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Richard Stallman</a> (<a href="/wiki/Logiciel_libre" title="Logiciel libre">logiciel libre</a>, <a href="/wiki/GNU" title="GNU">GNU</a>, <a href="/wiki/Fondation_pour_le_logiciel_libre" class="mw-redirect" title="Fondation pour le logiciel libre">FSF</a>, <a href="/wiki/Emacs" title="Emacs">Emacs</a>)</li>
 <li><a href="/wiki/Christopher_Strachey" title="Christopher Strachey">Christopher Strachey</a> (créateur de la <a href="/wiki/S%C3%A9mantique_d%C3%A9notationnelle" title="Sémantique dénotationnelle">sémantique dénotationnelle</a>)</li>
-<li><a href="/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup">Bjarne Stroustrup</a> (<a href="/wiki/C_plus_plus" title="C plus plus" class="mw-redirect">C++</a>)</li>
+<li><a href="/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup">Bjarne Stroustrup</a> (<a href="/wiki/C%2B%2B" title="C++">C++</a>)</li>
 <li><a href="/wiki/Alan_Sugar" title="Alan Sugar">Alan Sugar</a> (<a href="/wiki/Amstrad" title="Amstrad">Amstrad</a>)</li>
 <li><a href="/wiki/Gerald_Jay_Sussman" title="Gerald Jay Sussman">Gerald Jay Sussman</a> (langage <a href="/wiki/Scheme" title="Scheme">Scheme</a>, <a href="/wiki/Intelligence_artificielle" title="Intelligence artificielle">Intelligence artificielle</a>)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=19" title="Modifier la section : T">modifier</a>]</span> <span class="mw-headline" id="T">T</span></h2>
-<ul>
-<li><a href="/wiki/Andrew_S._Tanenbaum" title="Andrew S. Tanenbaum" class="mw-redirect">Andrew S. Tanenbaum</a> (vulgarisateur, <a href="/wiki/Minix" title="Minix">Minix</a> inspirateur de <a href="/wiki/Linux" title="Linux">Linux</a>)</li>
-<li><a href="/wiki/Kenneth_Thompson" title="Kenneth Thompson" class="mw-redirect">Kenneth Thompson</a> (<a href="/wiki/Unix" title="Unix">Unix</a>)</li>
+<li><a href="/wiki/Aaron_Swartz" title="Aaron Swartz">Aaron Swartz</a> (<a href="/wiki/RSS" title="RSS">RSS</a>, <a href="/wiki/Creative_Commons" title="Creative Commons">Creative Commons</a>, <a href="/wiki/Markdown" title="Markdown">Markdown</a>, <a href="/wiki/Reddit" title="Reddit">Reddit</a>)</li></ul>
+<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=19" title="Modifier la section : T" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=19" title="Modifier le code source de la section : T"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Andrew_S._Tanenbaum" class="mw-redirect" title="Andrew S. Tanenbaum">Andrew S. Tanenbaum</a> (vulgarisateur, <a href="/wiki/Minix" title="Minix">Minix</a> inspirateur de <a href="/wiki/Linux" title="Linux">Linux</a>)</li>
+<li><a href="/wiki/Charles_Xavier_Thomas_de_Colmar" title="Charles Xavier Thomas de Colmar">Charles Xavier Thomas de Colmar</a> (arithmomètre)</li>
+<li><a href="/wiki/Kenneth_Thompson" class="mw-redirect" title="Kenneth Thompson">Kenneth Thompson</a> (<a href="/wiki/Unix" title="Unix">Unix</a>)</li>
 <li><a href="/wiki/Linus_Torvalds" title="Linus Torvalds">Linus Torvalds</a> (<a href="/wiki/Linux" title="Linux">Linux</a>)</li>
 <li><a href="/wiki/Marcelo_Tosatti" title="Marcelo Tosatti">Marcelo Tosatti</a> (<a href="/wiki/Linux" title="Linux">Linux</a>)</li>
+<li><a href="/wiki/Leonardo_Torres_Quevedo" title="Leonardo Torres Quevedo">Leonardo Torres Quevedo</a> (calculateurs, virgule flottante)</li>
 <li><a href="/wiki/Andr%C3%A9_Truong_Trong_Thi" title="André Truong Trong Thi">André Truong Trong Thi</a> (premier <a href="/wiki/Compatible_PC" title="Compatible PC">PC</a>, le <a href="/wiki/Micral" title="Micral">Micral</a>)</li>
-<li><a href="/wiki/Jean-Michel_Truong" title="Jean-Michel Truong">Jean-Michel Truong</a> (<a href="/wiki/Cognitique" title="Cognitique">cogniticien</a>, Intelligence artificielle)</li>
-<li><a href="/wiki/Alan_Turing" title="Alan Turing">Alan Mathison Turing</a> (Thèse de Church, <a href="/wiki/Machine_de_Turing" title="Machine de Turing">Machine de Turing</a>, Intelligence artificielle)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=20" title="Modifier la section : U">modifier</a>]</span> <span class="mw-headline" id="U">U</span></h2>
-<ul>
-<li><a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">Jeffrey Ullman</a> (<i><a href="/wiki/Dragon_book" title="Dragon book">Dragon book</a></i>)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=21" title="Modifier la section : V">modifier</a>]</span> <span class="mw-headline" id="V">V</span></h2>
-<ul>
-<li><a href="/wiki/Jef_Raskin" title="Jef Raskin">Jef Raskin</a> (<a href="/wiki/Macintosh" title="Macintosh">Macintosh</a>)</li>
-<li><a href="/wiki/Guido_Van_Rossum" title="Guido Van Rossum" class="mw-redirect">Guido Van Rossum</a> (Créateur du langage <a href="/wiki/Langage_de_programmation_Python" title="Langage de programmation Python" class="mw-redirect">Python</a>)</li>
-<li><a href="/wiki/John_Venn" title="John Venn">John Venn</a> (<a href="/wiki/Diagramme_de_Venn" title="Diagramme de Venn">Diagramme de Venn</a>)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=22" title="Modifier la section : W">modifier</a>]</span> <span class="mw-headline" id="W">W</span></h2>
-<ul>
-<li><a href="/wiki/Larry_Wall" title="Larry Wall">Larry Wall</a> (créateur du langage <a href="/wiki/Perl_(langage)" title="Perl (langage)">Perl</a>)</li>
+<li><a href="/wiki/Jean-Michel_Truong" title="Jean-Michel Truong">Jean-Michel Truong</a> (<a href="/wiki/Cognitique" title="Cognitique">cogniticien</a>, intelligence artificielle)</li>
+<li><a href="/wiki/Alan_Turing" title="Alan Turing">Alan Mathison Turing</a> (<a href="/wiki/Th%C3%A8se_de_Church" title="Thèse de Church">thèse de Church</a>, <a href="/wiki/Machine_de_Turing" title="Machine de Turing">machine de Turing</a>, intelligence artificielle)</li></ul>
+<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=20" title="Modifier la section : U" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=20" title="Modifier le code source de la section : U"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">Jeffrey Ullman</a> (<i><a href="/wiki/Dragon_book" title="Dragon book">Dragon book</a></i>)</li></ul>
+<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=21" title="Modifier la section : V" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=21" title="Modifier le code source de la section : V"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Guido_Van_Rossum" class="mw-redirect" title="Guido Van Rossum">Guido Van Rossum</a> (créateur du langage <a href="/wiki/Langage_de_programmation_Python" class="mw-redirect" title="Langage de programmation Python">Python</a>)</li>
+<li><a href="/wiki/Adriaan_van_Wijngaarden" title="Adriaan van Wijngaarden">Adriaan van Wijngaarden</a> (<a href="/wiki/Grammaires_de_van_Wijngaarden" title="Grammaires de van Wijngaarden">grammaires à 2 niveaux</a>, <a href="/wiki/Algol_68" title="Algol 68">Algol 68</a>)</li>
+<li><a href="/wiki/John_Venn" title="John Venn">John Venn</a> (<a href="/wiki/Diagramme_de_Venn" title="Diagramme de Venn">diagramme de Venn</a>)</li></ul>
+<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=22" title="Modifier la section : W" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=22" title="Modifier le code source de la section : W"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Larry_Wall" title="Larry Wall">Larry Wall</a> (créateur du langage <a href="/wiki/Perl_(langage)" title="Perl (langage)">Perl</a>)</li>
 <li><a href="/wiki/Jean-Dominique_Warnier" title="Jean-Dominique Warnier">Jean-Dominique Warnier</a> (méthode du même nom)</li>
-<li><a href="/wiki/John_Warnock" title="John Warnock">John Warnock</a> (<a href="/wiki/PostScript" title="PostScript">PostScript</a>, <a href="/wiki/Adobe_Systems" title="Adobe Systems">Adobe</a>)</li>
-<li><a href="/wiki/Joseph_Weizenbaum" title="Joseph Weizenbaum">Joseph Weizenbaum</a> (<a href="/wiki/Intelligence_artificielle" title="Intelligence artificielle">Intelligence artificielle</a>)</li>
-<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> (<a href="/wiki/Pascal_(langage)" title="Pascal (langage)">langage Pascal</a>, Modula)</li>
-<li><a href="/wiki/Stephen_Wozniak" title="Stephen Wozniak" class="mw-redirect">Stephen Wozniak</a> (<a href="/wiki/Apple,_Inc." title="Apple, Inc." class="mw-redirect">Apple</a>)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=23" title="Modifier la section : Y">modifier</a>]</span> <span class="mw-headline" id="Y">Y</span></h2>
-<ul>
-<li><a href="/w/index.php?title=Ed_Yourdon&amp;action=edit&amp;redlink=1" class="new" title="Ed Yourdon (page inexistante)">Ed Yourdon</a> (Programmation structurée)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=24" title="Modifier la section : Z">modifier</a>]</span> <span class="mw-headline" id="Z">Z</span></h2>
-<ul>
-<li><a href="/wiki/Lotfi_Zadeh" title="Lotfi Zadeh">Lotfi Zadeh</a> (Logique floue)</li>
-<li><a href="/wiki/Phil_Zimmerman" title="Phil Zimmerman" class="mw-redirect">Phil Zimmerman</a> (<a href="/wiki/Pretty_good_privacy" title="Pretty good privacy" class="mw-redirect">Pretty good privacy</a>)</li>
+<li><a href="/wiki/John_Warnock" title="John Warnock">John Warnock</a> (<a href="/wiki/PostScript" title="PostScript">PostScript</a>, <a href="/wiki/Adobe_Systems" class="mw-redirect" title="Adobe Systems">Adobe</a>)</li>
+<li><a href="/wiki/Joseph_Weizenbaum" title="Joseph Weizenbaum">Joseph Weizenbaum</a> (<a href="/wiki/Intelligence_artificielle" title="Intelligence artificielle">intelligence artificielle</a>)</li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> langages PL360, <a href="/wiki/Algol_W" title="Algol W">Algol W</a>(<a href="/wiki/Pascal_(langage)" title="Pascal (langage)">Pascal</a>, <a href="/wiki/Modula" class="mw-redirect" title="Modula">Modula</a>, machine Lilith, Oberon)</li>
+<li><a href="/wiki/Stephen_Wozniak" class="mw-redirect" title="Stephen Wozniak">Stephen Wozniak</a> (<a href="/wiki/Apple" title="Apple">Apple</a>)</li></ul>
+<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=23" title="Modifier la section : Y" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=23" title="Modifier le code source de la section : Y"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/w/index.php?title=Edward_Yourdon&amp;action=edit&amp;redlink=1" class="new" title="Edward Yourdon (page inexistante)">Ed Yourdon</a>&#160;<a href="https://en.wikipedia.org/wiki/Edward_Yourdon" class="extiw" title="en:Edward Yourdon"><span class="indicateur-langue" title="Article en anglais&#160;: «&#160;Edward Yourdon&#160;»">(en)</span></a> (programmation structurée)</li></ul>
+<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=24" title="Modifier la section : Z" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=24" title="Modifier le code source de la section : Z"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Lotfi_Zadeh" title="Lotfi Zadeh">Lotfi Zadeh</a> (<a href="/wiki/Logique_floue" title="Logique floue">logique floue</a>)</li>
+<li><a href="/wiki/Phil_Zimmerman" class="mw-redirect" title="Phil Zimmerman">Phil Zimmerman</a> (<a href="/wiki/Pretty_Good_Privacy" title="Pretty Good Privacy">Pretty Good Privacy</a>)</li>
 <li><a href="/wiki/Konrad_Zuse" title="Konrad Zuse">Konrad Zuse</a> (Z3)</li>
-</ul>
-<ul id="bandeau-portail" class="bandeau-portail">
-<li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Informatique" title="Portail de l’informatique"><img alt="Portail de l’informatique" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Crystal_mycomputer.png/24px-Crystal_mycomputer.png" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Crystal_mycomputer.png/36px-Crystal_mycomputer.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Crystal_mycomputer.png/48px-Crystal_mycomputer.png 2x" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Informatique" title="Portail:Informatique">Portail de l’informatique</a></span></span></li>
-</ul>
-
-
+<li><a href="/wiki/Mark_Zuckerberg" title="Mark Zuckerberg">Mark Zuckerberg</a> (Facebook)</li></ul>
+<h2><span id="R.C3.A9f.C3.A9rences"></span><span class="mw-headline" id="Références">Références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;veaction=edit&amp;section=25" title="Modifier la section : Références" class="mw-editsection-visualeditor"><span>modifier</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit&amp;section=25" title="Modifier le code source de la section : Références"><span>modifier le code</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small decimal" style=""><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-DI_9335-1"><span class="mw-cite-backlink noprint">↑ <sup><a href="#cite_ref-DI_9335_1-0">a</a> <a href="#cite_ref-DI_9335_1-1">b</a> et <a href="#cite_ref-DI_9335_1-2">c</a></sup> </span><span class="reference-text"><a rel="nofollow" class="external text" href="http://www.directioninformatique.com/les-50-plus-grands-visionnaires-de-la-technologie-1-a-25-2/9335">Les 50 plus grands visionnaires de la technologie – 1 à 25</a>, direction informatique.com, juin 2008</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink noprint"><a href="#cite_ref-2">↑</a> </span><span class="reference-text"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr><a rel="nofollow" class="external text" href="https://www.nasa.gov/50th/50th_magazine/scientists.html">NASA Engineers and Scientists-Transforming Dreams Into Reality</a>, sur nasa.gov, consulté le 24 janvier 2019.</span>
+</li>
+</ol></div>
+</div>
+<ul><li><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé <span class="plainlinks">«&#160;<a href="https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science" class="extiw" title="en:List of pioneers in computer science">List of pioneers in computer science</a>&#160;» <small>(<a class="external text" href="https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science?action=history">voir la liste des auteurs</a>)</small></span>.</li></ul>
+<ul id="bandeau-portail" class="bandeau-portail"><li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><span class="noviewer" typeof="mw:File"><a href="/wiki/Portail:Informatique" title="Portail de l’informatique"><img alt="icône décorative" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/24px-Circle-icons-computer.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/36px-Circle-icons-computer.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/48px-Circle-icons-computer.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Informatique" title="Portail:Informatique">Portail de l’informatique</a></span> </span></li> <li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><span class="noviewer" typeof="mw:File"><a href="/wiki/Portail:Histoire_des_sciences" title="Portail de l’histoire des sciences"><img alt="icône décorative" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Science_history_icon.svg/37px-Science_history_icon.svg.png" decoding="async" width="37" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Science_history_icon.svg/56px-Science_history_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Science_history_icon.svg/74px-Science_history_icon.svg.png 2x" data-file-width="400" data-file-height="260" /></a></span></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Histoire_des_sciences" title="Portail:Histoire des sciences">Portail de l’histoire des sciences</a></span> </span></li>                   </ul>
 <!-- 
 NewPP limit report
-Preprocessor visited node count: 278/1000000
-Preprocessor generated node count: 2000/1500000
-Post-expand include size: 2387/2048000 bytes
-Template argument size: 191/2048000 bytes
-Highest expansion depth: 8/40
-Expensive parser function count: 1/500
+Parsed by mw‐web.eqiad.main‐6db66d7b66‐2njtr
+Cached time: 20240519194111
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [no‐toc]
+CPU time usage: 0.269 seconds
+Real time usage: 0.343 seconds
+Preprocessor visited node count: 1039/1000000
+Post‐expand include size: 10556/2097152 bytes
+Template argument size: 1048/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1894/5000000 bytes
+Lua time usage: 0.089/10.000 seconds
+Lua memory usage: 2458693/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  212.899      1 -total
+ 42.60%   90.695      1 Modèle:Portail
+ 25.52%   54.325      1 Modèle:Références
+ 20.44%   43.522      1 Modèle:En
+ 20.31%   43.231      2 Modèle:Indication_de_langue
+ 19.44%   41.390      1 Modèle:Catégorisation_badges
+ 18.31%   38.975      4 Modèle:Lien
+ 14.22%   30.271      1 Modèle:Suivi_des_biographies
+  5.53%   11.774      1 Modèle:Traduction/Référence
+  4.85%   10.323      1 Modèle:SommaireCompact
 -->
 
-<!-- Saved in parser cache with key frwiki:pcache:idhash:2365-0!*!0!!*!4!* and timestamp 20121227222621 -->
-</div>				<!-- /bodycontent -->
-								<!-- printfooter -->
-				<div class="printfooter">
-				Ce document provient de « <a href="http://fr.wikipedia.org/w/index.php?title=Liste_d%27informaticiens_et_précurseurs_de_l%27informatique&amp;oldid=85911444">http://fr.wikipedia.org/w/index.php?title=Liste_d%27informaticiens_et_précurseurs_de_l%27informatique&amp;oldid=85911444</a> ».				</div>
-				<!-- /printfooter -->
-												<!-- catlinks -->
-				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégorie</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Liste_d%27informaticiens" title="Catégorie:Liste d'informaticiens">Liste d'informaticiens</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégorie cachée : <ul><li><a href="/wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s" title="Catégorie:Portail:Informatique/Articles liés">Portail:Informatique/Articles liés</a></li></ul></div></div>				<!-- /catlinks -->
-												<div class="visualClear"></div>
-				<!-- debughtml -->
-								<!-- /debughtml -->
-			</div>
-			<!-- /bodyContent -->
-		</div>
-		<!-- /content -->
-		<div id="mw-navigation">
-			<h2>Menu de navigation</h2>
-			<!-- header -->
-			<div id="mw-head" class="noprint">
-				
-<!-- 0 -->
-<div id="p-personal" role="navigation" class="">
-	<h3>Outils personnels</h3>
-	<ul>
-<li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Liste+d%27informaticiens+et+pr%C3%A9curseurs+de+l%27informatique&amp;type=signup">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Liste+d%27informaticiens+et+pr%C3%A9curseurs+de+l%27informatique" title="Vous êtes encouragé(e) à vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Connexion</a></li>	</ul>
-</div>
-
-<!-- /0 -->
-				<div id="left-navigation">
-					
-<!-- 0 -->
-<div id="p-namespaces" role="navigation" class="vectorTabs">
-	<h3>Espaces de noms</h3>
-	<ul>
-					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique"  title="Voir la page de contenu [c]" accesskey="c">Article</a></span></li>
-					<li  id="ca-talk"><span><a href="/wiki/Discussion:Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique"  title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
-	<h3 id="mw-vector-current-variant">
-		</h3>
-	<h3><span>Variantes</span><a href="#"></a></h3>
-	<div class="menu">
-		<ul>
-					</ul>
-	</div>
-</div>
-
-<!-- /1 -->
+<!-- Saved in parser cache with key frwiki:pcache:idhash:2365-0!canonical and timestamp 20240519194111 and revision id 213194105. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/w/index.php?title=Liste_d%27informaticiens_et_précurseurs_de_l%27informatique&amp;oldid=213194105">https://fr.wikipedia.org/w/index.php?title=Liste_d%27informaticiens_et_précurseurs_de_l%27informatique&amp;oldid=213194105</a>&#160;».</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Liste_d%27informaticiens" title="Catégorie:Liste d&#039;informaticiens">Liste d'informaticiens</a></li><li><a href="/wiki/Cat%C3%A9gorie:Pr%C3%A9curseur_de_l%27informatique" title="Catégorie:Précurseur de l&#039;informatique">Précurseur de l'informatique</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais" title="Catégorie:Article contenant un appel à traduction en anglais">Article contenant un appel à traduction en anglais</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_avec_un_oldid_invalide" title="Catégorie:Page avec un oldid invalide">Page avec un oldid invalide</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s" title="Catégorie:Portail:Informatique/Articles liés">Portail:Informatique/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Technologies/Articles_li%C3%A9s" title="Catégorie:Portail:Technologies/Articles liés">Portail:Technologies/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s" title="Catégorie:Portail:Sciences/Articles liés">Portail:Sciences/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Histoire_des_sciences/Articles_li%C3%A9s" title="Catégorie:Portail:Histoire des sciences/Articles liés">Portail:Histoire des sciences/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Histoire/Articles_li%C3%A9s" title="Catégorie:Portail:Histoire/Articles liés">Portail:Histoire/Articles liés</a></li></ul></div></div>
 				</div>
-				<div id="right-navigation">
-					
-<!-- 0 -->
-<div id="p-views" role="navigation" class="vectorTabs">
-	<h3>Affichages</h3>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 9 mars 2024 à 16:05.</li>
+	<li id="footer-info-copyright"><span style="white-space: normal"><a class="internal" href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Droit d'auteur">Droit d'auteur</a> : les textes sont disponibles sous <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr" title="Licence Creative Commons Attribution - partage dans les mêmes conditions 4.0 international">licence Creative Commons attribution, partage dans les mêmes conditions</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr" title="Conditions d’utilisation de la Wikimedia Foundation">conditions d’utilisation</a> pour plus de détails, ainsi que les <a class="internal" href="/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques" title="Droit d'auteur de certaines icônes">crédits graphiques</a>. En cas de réutilisation des textes de cette page, voyez <a class="internal" href="/wiki/Sp%C3%A9cial:Citer/Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique" title="Citer ou réutiliser cette page">comment citer les auteurs et mentionner la licence</a>.<br />
+Wikipedia® est une marque déposée de la <a href="https://wikimediafoundation.org/" title="Wikimedia Foundation">Wikimedia Foundation, Inc.</a>, organisation de bienfaisance régie par le paragraphe <a class="internal" href="/wiki/501c" title="501c">501(c)(3)</a> du code fiscal des États-Unis.</span><br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/fr">Politique de confidentialité</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia">À propos de Wikipédia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux">Avertissements</a></li>
+	<li id="footer-places-contact"><a href="//fr.wikipedia.org/wiki/Wikipédia:Contact">Contact</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code de conduite</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Développeurs</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikipedia.org">Statistiques</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+	<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
 	<ul>
-					<li id="ca-view" class="selected"><span><a href="/wiki/Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique" >Lire</a></span></li>
-					<li id="ca-edit"><span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=edit"  title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier</a></span></li>
-					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Afficher l'historique</a></span></li>
-			</ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Activer ou désactiver la limitation de largeur du contenu</span>
+</button>
+</li>
+	</ul>
 </div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
-	<h3><span>Actions</span><a href="#"></a></h3>
-	<div class="menu">
-		<ul>
-					</ul>
-	</div>
-</div>
-
-<!-- /1 -->
-
-<!-- 2 -->
-<div id="p-search" role="search">
-	<h3><label for="searchInput">Rechercher</label></h3>
-	<form action="/w/index.php" id="searchform">
-				<div id="simpleSearch">
-						<input name="search" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Rechercher les pages comportant ce texte." id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf6/skins/vector/images/search-ltr.png?303-4" alt="Rechercher" width="12" height="13" /></button>								<input type='hidden' name="title" value="Spécial:Recherche"/>
-		</div>
-	</form>
-</div>
-
-<!-- /2 -->
-				</div>
-			</div>
-			<!-- /header -->
-			<!-- panel -->
-			<div id="mw-panel" class="noprint">
-				<!-- logo -->
-					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/5/5a/Wikipedia-logo-v2-fr.png);" href="/wiki/Wikip%C3%A9dia:Accueil_principal"  title="Page principale"></a></div>
-				<!-- /logo -->
-				
-<!-- SEARCH -->
-
-<!-- /SEARCH -->
-
-<!-- navigation -->
-<div class="portal" role="navigation" id='p-navigation'>
-	<h3>Navigation</h3>
-	<div class="body">
-		<ul>
-			<li id="n-Accueil"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal">Accueil</a></li>
-			<li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li>
-			<li id="n-alphindex"><a href="/wiki/Sp%C3%A9cial:Toutes_les_pages">Index alphabétique</a></li>
-			<li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li>
-			<li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contacter Wikipédia</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- /navigation -->
-
-<!-- Contribuer -->
-<div class="portal" role="navigation" id='p-Contribuer'>
-	<h3>Contribuer</h3>
-	<div class="body">
-		<ul>
-			<li id="n-aboutwp"><a href="/wiki/Aide:Premiers_pas">Premiers pas</a></li>
-			<li id="n-help"><a href="/wiki/Aide:Sommaire" title="Aide">Aide</a></li>
-			<li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet">Communauté</a></li>
-			<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li>
-			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_fr.wikipedia.org&amp;uselang=fr" title="Aidez-nous">Faire un don</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- /Contribuer -->
-
-<!-- coll-print_export -->
-<div class="portal" role="navigation" id='p-coll-print_export'>
-	<h3>Imprimer / exporter</h3>
-	<div class="body">
-		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Liste+d%27informaticiens+et+pr%C3%A9curseurs+de+l%27informatique" title="Créer un livre ou une collection d’articles" rel="nofollow">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Liste+d%27informaticiens+et+pr%C3%A9curseurs+de+l%27informatique&amp;oldid=85911444&amp;writer=rl" title="Télécharge une version PDF de cette page wiki" rel="nofollow">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li></ul>	</div>
-</div>
-
-<!-- /coll-print_export -->
-
-<!-- TOOLBOX -->
-<div class="portal" role="navigation" id='p-tb'>
-	<h3>Boîte à outils</h3>
-	<div class="body">
-		<ul>
-			<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique" title="Liste des pages liées à celle-ci [j]" accesskey="j">Pages liées</a></li>
-			<li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique" title="Liste des modifications récentes des pages liées à celle-ci [k]" accesskey="k">Suivi des pages liées</a></li>
-			<li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Envoyer une image ou fichier média sur le serveur [u]" accesskey="u">Importer un fichier</a></li>
-			<li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li>
-			<li id="t-permalink"><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;oldid=85911444" title="Lien permanent vers cette version de la page">Adresse de cette version</a></li>
-			<li id="t-info"><a href="/w/index.php?title=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;action=info">Information sur la page</a></li>
-<li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique&amp;id=85911444" title="Informations sur comment citer cette page">Citer cette page</a></li>		</ul>
-	</div>
-</div>
-
-<!-- /TOOLBOX -->
-
-<!-- LANGUAGES -->
-<div class="portal" role="navigation" id='p-lang'>
-	<h3>Autres langues</h3>
-	<div class="body">
-		<ul>
-			<li class="interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A7%80_%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE" title="কম্পিউটার বিজ্ঞানী তালিকা" lang="bn" hreflang="bn">বাংলা</a></li>
-			<li class="interwiki-bs"><a href="//bs.wikipedia.org/wiki/Spisak_ra%C4%8Dunarskih_nau%C4%8Dnika" title="Spisak računarskih naučnika" lang="bs" hreflang="bs">Bosanski</a></li>
-			<li class="interwiki-en"><a href="//en.wikipedia.org/wiki/List_of_computer_scientists" title="List of computer scientists" lang="en" hreflang="en">English</a></li>
-			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Anexo:Inform%C3%A1ticos_te%C3%B3ricos" title="Anexo:Informáticos teóricos" lang="es" hreflang="es">Español</a></li>
-			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Popis_ra%C4%8Dunalnih_znanstvenika" title="Popis računalnih znanstvenika" lang="hr" hreflang="hr">Hrvatski</a></li>
-			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Daftar_ilmuwan_komputer" title="Daftar ilmuwan komputer" lang="id" hreflang="id">Bahasa Indonesia</a></li>
-			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A3%E0%A4%95_%E0%A4%B5%E0%A5%88%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95" title="संगणक वैज्ञानिक" lang="mr" hreflang="mr">मराठी</a></li>
-			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Lijst_van_informatici" title="Lijst van informatici" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Anexo:Lista_de_cientistas_da_computa%C3%A7%C3%A3o" title="Anexo:Lista de cientistas da computação" lang="pt" hreflang="pt">Português</a></li>
-			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Lista_oamenilor_de_%C8%99tiin%C8%9B%C4%83_%C3%AEn_tehnologia_informa%C8%9Biei" title="Lista oamenilor de știință în tehnologia informației" lang="ro" hreflang="ro">Română</a></li>
-			<li class="interwiki-sq"><a href="//sq.wikipedia.org/wiki/Lista_e_shkenc%C3%ABtar%C3%ABve_t%C3%AB_kompjuterit" title="Lista e shkencëtarëve të kompjuterit" lang="sq" hreflang="sq">Shqip</a></li>
-			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%88%97%E8%A1%A8" title="计算机科学家列表" lang="zh" hreflang="zh">中文</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- /LANGUAGES -->
-			</div>
-			<!-- /panel -->
-		</div>
-		<!-- footer -->
-		<div id="footer" role="contentinfo">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> Dernière modification de cette page le 29 novembre 2012 à 17:35.<br /></li>
-											<li id="footer-info-copyright"><span style="white-space: normal"><a class="internal" href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Droit d'auteur">Droit d'auteur</a> : les textes sont disponibles sous <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.fr" title="Licence Creative Commons paternité partage des conditions initiales à l’identique 3.0 unported">licence Creative Commons paternité partage à l’identique</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="//wikimediafoundation.org/wiki/Conditions_d%27utilisation" title="Conditions d’utilisation de la Wikimedia Foundation">conditions d’utilisation</a> pour plus de détails, ainsi que les <a class="internal" href="/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques" title="Droit d'auteur de certaines icônes">crédits graphiques</a>. En cas de réutilisation des textes de cette page, voyez <a class="internal" href="/wiki/Sp%C3%A9cial:Citer/Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique" title="Citer ou réutiliser cette page">comment citer les auteurs et mentionner la licence</a>.<br />
-Wikipedia® est une marque déposée de la <a href="//wikimediafoundation.org/wiki/Accueil" title="Wikimedia Foundation">Wikimedia Foundation, Inc.</a>, organisation de bienfaisance régie par le paragraphe <a class="internal" href="/wiki/501c" title="501c">501(c)(3)</a> du code fiscal des États-Unis.</span><br /></li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Politique_de_confidentialit%C3%A9" title="wikimedia:Politique de confidentialité">Politique de confidentialité</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos" title="Wikipédia:À propos">À propos de Wikipédia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
-											<li id="footer-places-mobileview"><a href="http://fr.m.wikipedia.org/wiki/Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-					<li id="footer-copyrightico">
-						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
-					</li>
-					<li id="footer-poweredbyico">
-						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
-					</li>
-				</ul>
-						<div style="clear:both"></div>
-		</div>
-		<!-- /footer -->
-		<script>if(window.mw){
-mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
-}</script>
-<script src="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.newCollapsible","ext.gadget.WikiMiniAtlas","ext.gadget.BoutonPlus","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","mw.PopUpMediaTransform"], null, true);
-}</script>
-<script src="//bits.wikimedia.org/fr.wikipedia.org/load.php?debug=false&amp;lang=fr&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<!-- Served by srv197 in 0.151 secs. -->
-	</body>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-97dc4ffdd-96k2m","wgBackendResponseTime":148,"wgPageParseReport":{"limitreport":{"cputime":"0.269","walltime":"0.343","ppvisitednodes":{"value":1039,"limit":1000000},"postexpandincludesize":{"value":10556,"limit":2097152},"templateargumentsize":{"value":1048,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1894,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  212.899      1 -total"," 42.60%   90.695      1 Modèle:Portail"," 25.52%   54.325      1 Modèle:Références"," 20.44%   43.522      1 Modèle:En"," 20.31%   43.231      2 Modèle:Indication_de_langue"," 19.44%   41.390      1 Modèle:Catégorisation_badges"," 18.31%   38.975      4 Modèle:Lien"," 14.22%   30.271      1 Modèle:Suivi_des_biographies","  5.53%   11.774      1 Modèle:Traduction/Référence","  4.85%   10.323      1 Modèle:SommaireCompact"]},"scribunto":{"limitreport-timeusage":{"value":"0.089","limit":"10.000"},"limitreport-memusage":{"value":2458693,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-6db66d7b66-2njtr","timestamp":"20240519194111","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Liste d'informaticiens et pr\u00e9curseurs de l'informatique","url":"https:\/\/fr.wikipedia.org\/wiki\/Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2476620","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2476620","author":{"@type":"Organization","name":"Contributeurs aux projets Wikimedia"},"publisher":{"@type":"Organization","name":"Fondation Wikimedia, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-08-18T13:48:42Z","dateModified":"2024-03-09T14:05:08Z","headline":"page de liste de Wikip\u00e9dia"}</script>
+</body>
 </html>
