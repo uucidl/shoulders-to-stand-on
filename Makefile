@@ -35,12 +35,12 @@ data/died.en+fr.txt: data/died.txt data/died.fr.txt
 
 data/died.txt: data/links.txt
 	cat $< | while read l ; do \
-	curl -s "http://en.wikipedia.org$$l" | grep -i '>Died<' > /dev/null && echo "$$l" ; \
+	curl -L -s "http://en.wikipedia.org$$l" | grep -i '>Died<' > /dev/null && echo "$$l" ; \
 	done > $@
 
 data/died.fr.txt: data/links.fr.txt
 	cat $< | while read l ; do \
-	curl -s "http://fr.wikipedia.org$$l" | grep -i '>Décès<' > /dev/null && echo "$$l" ; \
+	curl -L -s "http://fr.wikipedia.org$$l" | grep -i '>Décès<' > /dev/null && echo "$$l" ; \
 	done > $@
 
 data/links.txt: data/list.txt
@@ -56,7 +56,7 @@ data/list.fr.txt: data/wiki-list.fr.txt
 	$(AWK_SELECT_LIST) $< > $@
 
 data/wiki-list.txt:
-	curl http://en.wikipedia.org/wiki/List_of_computer_scientists > $@
+	curl -L http://en.wikipedia.org/wiki/List_of_computer_scientists > $@
 
 data/wiki-list.fr.txt:
-	curl "http://fr.wikipedia.org/wiki/Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique" > $@
+	curl -L "http://fr.wikipedia.org/wiki/Liste_d%27informaticiens_et_pr%C3%A9curseurs_de_l%27informatique" > $@
